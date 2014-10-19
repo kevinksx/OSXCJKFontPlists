@@ -4,7 +4,7 @@ They are customized for the following setting:<br>
 Simplified Chinese GUI of OS X uses Hiragino Sans GB as its GUI font.<br>
 Traditional Chinese GUI of OS X uses Hiragino Kaku Gothic Pro as its GUI font.<br>
 
-You should make sure:
+You should make sure:<br>
 1. All of those fonts I mentioned above must be placed into "/System/Library/Fonts/" folder,<br>
 2. All of those fonts I mentioned above should inherit permission settings from "/System/Library/Fonts/", NOT just simple 755.<br>
 
