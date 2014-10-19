@@ -7,6 +7,7 @@ Korean GUI of OS X uses Source Han Sans K as its GUI font.
 Japanese GUI of OS X uses Source Han Sans as its GUI font.
 
 Only these Source Han Sans builds are applicable with this set of plists:
+
 https://github.com/adobe-fonts/source-han-sans/tree/release/SuperOTC
 https://github.com/adobe-fonts/source-han-sans/tree/release/OTC
 https://github.com/adobe-fonts/source-han-sans/tree/release/OTF
