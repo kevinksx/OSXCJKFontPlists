@@ -1,7 +1,7 @@
 该资料夹包含修改过的Yosemite字体回退档案，<br>
 适用范围从Developer Preview 5起、已知其可用于Yosemite正式版14A389。<br>
 
-字体回退档案可在该目录下寻获:<br>
+字体回退档案需置于该目录、且继承该目录本身的权限设定:<br>
 「/System/Library/Frameworks/CoreText.framework/Versions/A/Resources」<br>
 
 该组字体回退档案包含如下设定:<br>
@@ -30,7 +30,7 @@ https://github.com/adobe-fonts/source-han-sans/tree/release/OTF <br>
 該資料夾包含修改過的Yosemite字體回退檔案，<br>
 適用範圍從Developer Preview 5起、已知其可用於Yosemite正式版14A389。<br>
 
-字體回退檔案可在該目錄下尋獲:<br>
+字體回退檔案需置於該目錄、且繼承該目錄本身的權限設定:<br>
 「/System/Library/Frameworks/CoreText.framework/Versions/A/Resources」<br>
 
 該組字體回退檔案包含如下設定:<br>
