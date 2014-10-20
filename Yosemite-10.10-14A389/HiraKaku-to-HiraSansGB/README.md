@@ -4,8 +4,8 @@
 字体回退档案需置于该目录、且继承该目录本身的权限设定:<br>
 「/System/Library/Frameworks/CoreText.framework/Versions/A/Resources」<br>
 可以藉由如下自动化指令将字体回退档案自动下载到正确的位置（不包含额外设定权限的步骤）：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist</code></pre>
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist</code></pre>
 
 该组字体回退档案包含如下设定:<br>
 
@@ -26,8 +26,8 @@ OS X 繁体中文介面语系使用 Hiragino Kaku Gothic Pro 作为介面字体�
 字體回退檔案需置於該目錄、且繼承該目錄本身的權限設定:<br>
 「/System/Library/Frameworks/CoreText.framework/Versions/A/Resources」<br>
 可以藉由如下自動化指令將字體回退檔案自動下載到正確的位置（不包含額外設定權限的步驟）：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist</code></pre>
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist</code></pre>
 
 該組字體回退檔案包含如下設定:<br>
 
@@ -47,8 +47,8 @@ This folder contains customized font fallback plist files of Yosemite since Deve
 Font Fallback plists files should be placed in the following folder and inherit permission settings from it:<br>
 "/System/Library/Frameworks/CoreText.framework/Versions/A/Resources"<br>
 You could use following Terminal commands to download and place them well unless you have no access to GitHub:<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist</code></pre>
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist</code></pre>
 
 They are customized for the following setting:<br>
 
