@@ -7,6 +7,11 @@ OSXCJKFontPlists
 
 请且仅请在您了解这些档案的适用目的之后再考虑下载这些档案。<br>
 
+附注：用curl下载github的档案的方法：<br>
+sudo curl -L 「GITHUB档案地址」\?raw\=true -o 「目标档案名称（包含路径）」<br>
+例如：<br>
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/README.md\?raw\=true -o ~/Desktop/"Hello World.txt"</code></pre>
+
 ==================================================================<br>
 
 該Git專案用於寄存一些現行修改好的OS X字體回退檔案（包括原廠未修改的檔案），<br>
@@ -14,6 +19,12 @@ OSXCJKFontPlists
 這些修改都是針對諸如思源黑體或者冬青黑體等第三方字體的相容性而進行的。
 
 請且僅請在您了解這些檔案的適用目的之後再考慮下載這些檔案。<br>
+
+附註：用curl下載github的檔案的方法：<br>
+sudo curl -L 「GITHUB檔案地址」\?raw\=true -o 「目標檔案名稱（包含路徑）」<br>
+例如：<br>
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/README.md\?raw\=true -o ~/Desktop/"Hello World.txt"</code></pre>
+
 
 ==================================================================<br>
 
@@ -23,3 +34,8 @@ Not only Factorial version (converted into XML format),<br>
 but also modified version to fit 3rd-party fonts like Hiragino Sans or SHS.<br>
 
 You should download files only if you know what they are and what they should be used for.<br>
+
+You could use Terminal command for batch download purposes:
+sudo curl -L 「GITHUB FILE ADDRESS」\?raw\=true -o 「TARGET FILENAME WITH DIRECTORY」<br>
+eg:<br>
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/README.md\?raw\=true -o ~/Desktop/"Hello World.txt"</code></pre>
