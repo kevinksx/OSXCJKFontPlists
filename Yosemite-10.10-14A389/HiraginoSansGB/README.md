@@ -37,7 +37,7 @@ sudo cp "/Library/Fonts/Hiragino Sans GB W6.otf" "/System/Library/Fonts/Hiragino
 <pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraginoSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraginoSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist</code></pre>
 
-在套用該組檔案之前，您需先確認：<br>
+該組字體回退檔案包含如下設定:<br>
 
 - OS X 簡繁體中文介面語系均使用 Hiragino Sans GB 作為介面字體。<br>
 
