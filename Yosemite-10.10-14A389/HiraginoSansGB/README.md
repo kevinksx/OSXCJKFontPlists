@@ -12,10 +12,14 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-
 
 - OS X 简繁体中文介面语系均使用 Hiragino Sans GB 作为介面字体。<br>
 
-您需确认：<br>
+在套用该组档案之前，您需先确认：<br>
 
 1. 所有上述字型档案均需置入「/System/Library/Fonts/」资料夹以内。<br>
 2. 所有上述字型档案均需继承「/System/Library/Fonts/」资料夹本身的权限设定，不可简单使用chmod设定755权限了事。<br>
+
+这两点可以藉由如下Terminal指令自动完成：<br>
+<pre><code>sudo cp "/Library/Fonts/Hiragino Sans GB W3.otf" "/System/Library/Fonts/Hiragino Sans GB W3.otf"
+sudo cp "/Library/Fonts/Hiragino Sans GB W6.otf" "/System/Library/Fonts/Hiragino Sans GB W6.otf"</code></pre>
 
 请且仅请在您了解这些档案的适用目的之后再考虑下载这些档案。<br>
 
@@ -31,7 +35,7 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-
 <pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraginoSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraginoSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist</code></pre>
 
-該組字體回退檔案包含如下設定:<br>
+在套用該組檔案之前，您需先確認：<br>
 
 - OS X 簡繁體中文介面語系均使用 Hiragino Sans GB 作為介面字體。<br>
 
@@ -39,6 +43,10 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-
 
 1. 所有上述字型檔案均需置入「/System/Library/Fonts/」資料夾以內。<br>
 2. 所有上述字型檔案均需繼承「/System/Library/Fonts/」資料夾本身的權限設定，不可簡單使用chmod設定755權限了事。<br>
+
+這兩點可以藉由如下Terminal指令自動完成：<br>
+<pre><code>sudo cp "/Library/Fonts/Hiragino Sans GB W3.otf" "/System/Library/Fonts/Hiragino Sans GB W3.otf"
+sudo cp "/Library/Fonts/Hiragino Sans GB W6.otf" "/System/Library/Fonts/Hiragino Sans GB W6.otf"</code></pre>
 
 請且僅請在您了解這些檔案的適用目的之後再考慮下載這些檔案。<br>
 
@@ -57,9 +65,13 @@ They are customized for the following setting:<br>
 
 - Both Simplified Chinese and Traditional Chinese GUI of OS X use Hiragino Sans GB as their GUI font.<br>
 
-You should make sure:<br>
+You should make sure following things have done before applying this set of font fallback plists:<br>
 
-1. All of those fonts I mentioned above must be placed into "/System/Library/Fonts/" folder,<br>
+1. All of those fonts I mentioned above must be placed into "/System/Library/Fonts/" folder:<br>
 2. All of those fonts I mentioned above should inherit permission settings from "/System/Library/Fonts/", NOT just simple 755.<br>
+
+You could get these two things done by using following Terminal commands:<br>
+<pre><code>sudo cp "/Library/Fonts/Hiragino Sans GB W3.otf" "/System/Library/Fonts/Hiragino Sans GB W3.otf"
+sudo cp "/Library/Fonts/Hiragino Sans GB W6.otf" "/System/Library/Fonts/Hiragino Sans GB W6.otf"</code></pre>
 
 You should download files only if you know what they are and what they should be used for.<br>

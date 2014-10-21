@@ -18,6 +18,12 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-
 1. 所有上述字型档案均需置入「/System/Library/Fonts/」资料夹以内。<br>
 2. 所有上述字型档案均需继承「/System/Library/Fonts/」资料夹本身的权限设定，不可简单使用chmod设定755权限了事。<br>
 
+这两点可以藉由如下Terminal指令自动完成：<br>
+<pre><code>sudo cp "/Library/Fonts/Hiragino Sans GB W3.otf" "/System/Library/Fonts/Hiragino Sans GB W3.otf"
+sudo cp "/Library/Fonts/Hiragino Sans GB W6.otf" "/System/Library/Fonts/Hiragino Sans GB W6.otf"
+sudo cp "/Library/Fonts/ヒラギノ角ゴ Pro W3.otf" "/System/Library/Fonts/ヒラギノ角ゴ Pro W3.otf"
+sudo cp "/Library/Fonts/ヒラギノ角ゴ Pro W6.otf" "/System/Library/Fonts/ヒラギノ角ゴ Pro W6.otf"</code></pre>
+
 请且仅请在您了解这些档案的适用目的之后再考虑下载这些档案。<br>
 
 ==============================================================================<br>
@@ -42,6 +48,13 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-
 1. 所有上述字型檔案均需置入「/System/Library/Fonts/」資料夾以內。<br>
 2. 所有上述字型檔案均需繼承「/System/Library/Fonts/」資料夾本身的權限設定，不可簡單使用chmod設定755權限了事。<br>
 
+這兩點可以藉由如下Terminal指令自動完成：<br>
+<pre><code>sudo cp "/Library/Fonts/Hiragino Sans GB W3.otf" "/System/Library/Fonts/Hiragino Sans GB W3.otf"
+sudo cp "/Library/Fonts/Hiragino Sans GB W6.otf" "/System/Library/Fonts/Hiragino Sans GB W6.otf"
+sudo cp "/Library/Fonts/ヒラギノ角ゴ Pro W3.otf" "/System/Library/Fonts/ヒラギノ角ゴ Pro W3.otf"
+sudo cp "/Library/Fonts/ヒラギノ角ゴ Pro W6.otf" "/System/Library/Fonts/ヒラギノ角ゴ Pro W6.otf"</code></pre>
+
+
 請且僅請在您了解這些檔案的適用目的之後再考慮下載這些檔案。<br>
 
 ==============================================================================<br>
@@ -62,7 +75,13 @@ They are customized for the following setting:<br>
 
 You should make sure:<br>
 
-1. All of those fonts I mentioned above must be placed into "/System/Library/Fonts/" folder,<br>
+1. All of those fonts I mentioned above must be placed into "/System/Library/Fonts/" folder:<br>
 2. All of those fonts I mentioned above should inherit permission settings from "/System/Library/Fonts/", NOT just simple 755.<br>
+
+You could get these two things done by using following Terminal commands:<br>
+<pre><code>sudo cp "/Library/Fonts/Hiragino Sans GB W3.otf" "/System/Library/Fonts/Hiragino Sans GB W3.otf"
+sudo cp "/Library/Fonts/Hiragino Sans GB W6.otf" "/System/Library/Fonts/Hiragino Sans GB W6.otf"
+sudo cp "/Library/Fonts/ヒラギノ角ゴ Pro W3.otf" "/System/Library/Fonts/ヒラギノ角ゴ Pro W3.otf"
+sudo cp "/Library/Fonts/ヒラギノ角ゴ Pro W6.otf" "/System/Library/Fonts/ヒラギノ角ゴ Pro W6.otf"</code></pre>
 
 You should download files only if you know what they are and what they should be used for.<br>
