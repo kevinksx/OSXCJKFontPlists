@@ -11,5 +11,5 @@
 ==============================================================================<br>
 
 This folder contains files compatible with Yosemite since Developer Preview 5 till RTM build 14A389.<br>
-You have responsibility to read those readme files within these subfolders before using these files.
+You have responsibility to read those readme files within these subfolders before using these files.<br>
 You should download files only if you know what they are and what they should be used for.<br>
