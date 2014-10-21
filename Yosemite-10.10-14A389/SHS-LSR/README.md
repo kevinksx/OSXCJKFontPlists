@@ -113,6 +113,8 @@ sudo cp SourceHanSans.ttc /System/Library/Fonts</code></pre>
 You should make sure following things have done before applying this set of font fallback plists:<br>
 
 1. All of those fonts I mentioned above must be placed into "/System/Library/Fonts/" folder,<br>
-2. All of those fonts I mentioned above should inherit permission settings from "/System/Library/Fonts/", NOT just simple 755.<br>
+2. All of those fonts I mentioned above should inherit permission settings from "/System/Library/Fonts/" as fix.<br>
+(use sudo per file operation could get the permission settings fixed automatically.)<br>
+(do not just use chmod command, it doesn't work 'cause chown command is needed at the same time.)<br>
 
 You should download files only if you know what they are and what they should be used for.<br>

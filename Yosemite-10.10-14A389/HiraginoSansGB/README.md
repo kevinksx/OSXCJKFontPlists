@@ -71,8 +71,10 @@ They are customized for the following setting:<br>
 
 You should make sure following things have done before applying this set of font fallback plists:<br>
 
-1. All of those fonts I mentioned above must be placed into "/System/Library/Fonts/" folder:<br>
-2. All of those fonts I mentioned above should inherit permission settings from "/System/Library/Fonts/", NOT just simple 755.<br>
+1. All of those fonts I mentioned above must be placed into "/System/Library/Fonts/" folder,<br>
+2. All of those fonts I mentioned above should inherit permission settings from "/System/Library/Fonts/" as fix.<br>
+(use sudo per file operation could get the permission settings fixed automatically.)<br>
+(do not just use chmod command, it doesn't work 'cause chown command is needed at the same time.)<br>
 
 You could get these two things done by using following Terminal commands:<br>
 <pre><code>sudo cp "/Library/Fonts/Hiragino Sans GB W3.otf" "/System/Library/Fonts/Hiragino Sans GB W3.otf"
