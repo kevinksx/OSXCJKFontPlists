@@ -28,10 +28,12 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-
 <pre><code>curl -L https://github.com/adobe-fonts/source-han-sans/blob/release/SuperOTC/SourceHanSans.ttc.zip\?raw\=true | bsdtar -xvf-
 sudo cp SourceHanSans.ttc /System/Library/Fonts</code></pre>
 
-您需确认：<br>
+在套用该组档案之前，您需先确认：<br>
 
 1. 所有上述字型档案均需置入「/System/Library/Fonts/」资料夹以内。<br>
-2. 所有上述字型档案均需继承「/System/Library/Fonts/」资料夹本身的权限设定，不可简单使用chmod设定755权限了事。<br>
+2. 所有上述字型档案均需继承「/System/Library/Fonts/」资料夹本身的权限设定以纠正权限。<br>
+（其实用sudo指令摆入该资料夹即可纠正权限；凡是仅基于chmod的方法都是隔靴搔痒）<br>
+（我很难想像在脱离chown的情况下如何讨论chmod设定权限的可行性）<br>
 
 请且仅请在您了解这些档案的适用目的之后再考虑下载这些档案。<br>
 
@@ -67,10 +69,12 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-
 <pre><code>curl -L https://github.com/adobe-fonts/source-han-sans/blob/release/SuperOTC/SourceHanSans.ttc.zip\?raw\=true | bsdtar -xvf-
 sudo cp SourceHanSans.ttc /System/Library/Fonts</code></pre>
 
-您需確認：<br>
+在套用該組檔案之前，您需先確認：<br>
 
 1. 所有上述字型檔案均需置入「/System/Library/Fonts/」資料夾以內。<br>
-2. 所有上述字型檔案均需繼承「/System/Library/Fonts/」資料夾本身的權限設定，不可簡單使用chmod設定755權限了事。<br>
+2. 所有上述字型檔案均需繼承「/System/Library/Fonts/」資料夾本身的權限設定以糾正權限。<br>
+（其實用sudo指令擺入該資料夾即可糾正權限；凡是僅基於chmod的方法都是隔靴搔癢）<br>
+（我很難想像在脫離chown的情況下如何討論chmod設定權限的可行性）<br>
 
 請且僅請在您了解這些檔案的適用目的之後再考慮下載這些檔案。<br>
 
@@ -106,7 +110,7 @@ For example of using SuperOTC, you could use following Terminal commands to down
 <pre><code>curl -L https://github.com/adobe-fonts/source-han-sans/blob/release/SuperOTC/SourceHanSans.ttc.zip\?raw\=true | bsdtar -xvf-
 sudo cp SourceHanSans.ttc /System/Library/Fonts</code></pre>
 
-You should make sure:<br>
+You should make sure following things have done before applying this set of font fallback plists:<br>
 
 1. All of those fonts I mentioned above must be placed into "/System/Library/Fonts/" folder,<br>
 2. All of those fonts I mentioned above should inherit permission settings from "/System/Library/Fonts/", NOT just simple 755.<br>

@@ -15,7 +15,9 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-
 在套用该组档案之前，您需先确认：<br>
 
 1. 所有上述字型档案均需置入「/System/Library/Fonts/」资料夹以内。<br>
-2. 所有上述字型档案均需继承「/System/Library/Fonts/」资料夹本身的权限设定，不可简单使用chmod设定755权限了事。<br>
+2. 所有上述字型档案均需继承「/System/Library/Fonts/」资料夹本身的权限设定以纠正权限。<br>
+（其实用sudo指令摆入该资料夹即可纠正权限；凡是仅基于chmod的方法都是隔靴搔痒）<br>
+（我很难想像在脱离chown的情况下如何讨论chmod设定权限的可行性）<br>
 
 这两点可以藉由如下Terminal指令自动完成：<br>
 <pre><code>sudo cp "/Library/Fonts/Hiragino Sans GB W3.otf" "/System/Library/Fonts/Hiragino Sans GB W3.otf"
@@ -39,10 +41,12 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-
 
 - OS X 簡繁體中文介面語系均使用 Hiragino Sans GB 作為介面字體。<br>
 
-您需確認：<br>
+在套用該組檔案之前，您需先確認：<br>
 
 1. 所有上述字型檔案均需置入「/System/Library/Fonts/」資料夾以內。<br>
-2. 所有上述字型檔案均需繼承「/System/Library/Fonts/」資料夾本身的權限設定，不可簡單使用chmod設定755權限了事。<br>
+2. 所有上述字型檔案均需繼承「/System/Library/Fonts/」資料夾本身的權限設定以糾正權限。<br>
+（其實用sudo指令擺入該資料夾即可糾正權限；凡是僅基於chmod的方法都是隔靴搔癢）<br>
+（我很難想像在脫離chown的情況下如何討論chmod設定權限的可行性）<br>
 
 這兩點可以藉由如下Terminal指令自動完成：<br>
 <pre><code>sudo cp "/Library/Fonts/Hiragino Sans GB W3.otf" "/System/Library/Fonts/Hiragino Sans GB W3.otf"
