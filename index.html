@@ -1,95 +1,292 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>OSX CJK Font Plists by ShikiSuen</title>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generated-by" content="Markdown PRO, http://markdownpro.com"/>
+<title></title>
+<style type="text/css">
+html,body{margin:0;padding:0;}
+body {padding: 20px}
+h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,cite,code,del,dfn,em,img,q,s,samp,small,strike,strong,sub,sup,tt,var,dd,dl,dt,li,ol,ul,fieldset,form,label,legend,button,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;font-weight:normal;font-style:normal;font-size:100%;line-height:1;font-family:inherit;}
+table{border-collapse:collapse;border-spacing:0;}
+ol,ul{list-style:none;}
+q:before,q:after,blockquote:before,blockquote:after{content:"";}
+html{overflow-y:scroll;font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
+a:focus{outline:thin dotted;}
+a:hover,a:active{outline:0;}
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block;}
+audio,canvas,video{display:inline-block;*display:inline;*zoom:1;}
+audio:not([controls]){display:none;}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}
+sup{top:-0.5em;}
+sub{bottom:-0.25em;}
+img{border:0;-ms-interpolation-mode:bicubic;}
+button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle;}
+button,input{line-height:normal;*overflow:visible;}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
+button,input[type="button"],input[type="reset"],input[type="submit"]{cursor:pointer;-webkit-appearance:button;}
+input[type="search"]{-webkit-appearance:textfield;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;}
+input[type="search"]::-webkit-search-decoration{-webkit-appearance:none;}
+textarea{overflow:auto;vertical-align:top;}
+html,body{background-color:#ffffff;}
+body{margin:0;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;font-weight:normal;line-height:18px;color:#404040;}
+.container{width:940px;margin-left:auto;margin-right:auto;zoom:1;}.container:before,.container:after{display:table;content:"";zoom:1;*display:inline;}
+.container:after{clear:both;}
+.container-fluid{position:relative;min-width:940px;padding-left:20px;padding-right:20px;zoom:1;}.container-fluid:before,.container-fluid:after{display:table;content:"";zoom:1;*display:inline;}
+.container-fluid:after{clear:both;}
+.container-fluid>.sidebar{float:left;width:220px;}
+.container-fluid>.content{margin-left:240px;}
+a{color:#0069d6;text-decoration:none;line-height:inherit;font-weight:inherit;}a:hover{color:#00438a;text-decoration:underline;}
+.pull-right{float:right;}
+.pull-left{float:left;}
+.hide{display:none;}
+.show{display:block;}
+.row{zoom:1;margin-left:-20px;}.row:before,.row:after{display:table;content:"";zoom:1;*display:inline;}
+.row:after{clear:both;}
+p{font-size:13px;font-weight:normal;line-height:18px;margin-bottom:9px;}p small{font-size:11px;color:#bfbfbf;}
+h1,h2,h3,h4,h5,h6{font-weight:bold;color:#404040;}h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{color:#bfbfbf;}
+h1{margin-bottom:18px;font-size:30px;line-height:36px;}h1 small{font-size:18px;}
+h2{font-size:24px;line-height:36px;}h2 small{font-size:14px;}
+h3,h4,h5,h6{line-height:36px;}
+h3{font-size:18px;}h3 small{font-size:14px;}
+h4{font-size:16px;}h4 small{font-size:12px;}
+h5{font-size:14px;}
+h6{font-size:13px;color:#bfbfbf;text-transform:uppercase;}
+ul,ol{margin:0 0 18px 25px;}
+ul ul,ul ol,ol ol,ol ul{margin-bottom:0;}
+ul{list-style:disc;}
+ol{list-style:decimal;}
+li{line-height:18px;color:#808080;}
+ul.unstyled{list-style:none;margin-left:0;}
+dl{margin-bottom:18px;}dl dt,dl dd{line-height:18px;}
+dl dt{font-weight:bold;}
+dl dd{margin-left:9px;}
+hr{margin:20px 0 19px;border:0;border-bottom:1px solid #eee;}
+strong{font-style:inherit;font-weight:bold;}
+em{font-style:italic;font-weight:inherit;line-height:inherit;}
+.muted{color:#bfbfbf;}
+blockquote{margin-bottom:18px;border-left:5px solid #eee;padding-left:15px;}blockquote p{font-size:14px;font-weight:300;line-height:18px;margin-bottom:0;}
+blockquote small{display:block;font-size:12px;font-weight:300;line-height:18px;color:#bfbfbf;}blockquote small:before{content:'\2014 \00A0';}
+address{display:block;line-height:18px;margin-bottom:18px;}
+code,pre{padding:0 3px 2px;font-family:Monaco, Andale Mono, Courier New, monospace;font-size:12px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
+code{padding:1px 3px;}
+pre{background-color:#f5f5f5;display:block;padding:8.5px;margin:0 0 18px;line-height:18px;font-size:12px;border:1px solid #ccc;border:1px solid rgba(0, 0, 0, 0.15);-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;white-space:pre;white-space:pre-wrap;word-wrap:break-word;}
+form{margin-bottom:18px;}
+fieldset{margin-bottom:18px;padding-top:18px;}fieldset legend{display:block;padding-left:150px;font-size:19.5px;line-height:1;color:#404040;*padding:0 0 5px 145px;*line-height:1.5;}
+form .clearfix{margin-bottom:18px;zoom:1;}form .clearfix:before,form .clearfix:after{display:table;content:"";zoom:1;*display:inline;}
+form .clearfix:after{clear:both;}
+label,input,select,textarea{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;font-weight:normal;line-height:normal;}
+label{padding-top:6px;font-size:13px;line-height:18px;float:left;width:130px;text-align:right;color:#404040;}
+form .input{margin-left:150px;}
+input[type=checkbox],input[type=radio]{cursor:pointer;}
+input,textarea,select,.uneditable-input{display:inline-block;width:210px;height:18px;padding:4px;font-size:13px;line-height:18px;color:#808080;border:1px solid #ccc;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
+input[type=checkbox],input[type=radio]{width:auto;height:auto;padding:0;margin:3px 0;*margin-top:0;line-height:normal;border:none;}
+input[type=file]{background-color:#ffffff;padding:initial;border:initial;line-height:initial;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;}
+input[type=button],input[type=reset],input[type=submit]{width:auto;height:auto;}
+select,input[type=file]{height:27px;line-height:27px;*margin-top:4px;}
+select[multiple]{height:inherit;}
+textarea{height:auto;}
+.uneditable-input{background-color:#ffffff;display:block;border-color:#eee;-webkit-box-shadow:inset 0 1px 2px rgba(0, 0, 0, 0.025);-moz-box-shadow:inset 0 1px 2px rgba(0, 0, 0, 0.025);box-shadow:inset 0 1px 2px rgba(0, 0, 0, 0.025);cursor:not-allowed;}
+:-moz-placeholder{color:#bfbfbf;}
+::-webkit-input-placeholder{color:#bfbfbf;}
+input,textarea{-webkit-transition:border linear 0.2s,box-shadow linear 0.2s;-moz-transition:border linear 0.2s,box-shadow linear 0.2s;-ms-transition:border linear 0.2s,box-shadow linear 0.2s;-o-transition:border linear 0.2s,box-shadow linear 0.2s;transition:border linear 0.2s,box-shadow linear 0.2s;-webkit-box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.1);-moz-box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.1);box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.1);}
+input:focus,textarea:focus{outline:0;border-color:rgba(82, 168, 236, 0.8);-webkit-box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.1),0 0 8px rgba(82, 168, 236, 0.6);-moz-box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.1),0 0 8px rgba(82, 168, 236, 0.6);box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.1),0 0 8px rgba(82, 168, 236, 0.6);}
+input[type=file]:focus,input[type=checkbox]:focus,select:focus{-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;outline:1px dotted #666;}
+form div.clearfix.error{background:#fae5e3;padding:10px 0;margin:-10px 0 10px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;}form div.clearfix.error>label,form div.clearfix.error span.help-inline,form div.clearfix.error span.help-block{color:#9d261d;}
+form div.clearfix.error input,form div.clearfix.error textarea{border-color:#c87872;-webkit-box-shadow:0 0 3px rgba(171, 41, 32, 0.25);-moz-box-shadow:0 0 3px rgba(171, 41, 32, 0.25);box-shadow:0 0 3px rgba(171, 41, 32, 0.25);}form div.clearfix.error input:focus,form div.clearfix.error textarea:focus{border-color:#b9554d;-webkit-box-shadow:0 0 6px rgba(171, 41, 32, 0.5);-moz-box-shadow:0 0 6px rgba(171, 41, 32, 0.5);box-shadow:0 0 6px rgba(171, 41, 32, 0.5);}
+form div.clearfix.error .input-prepend span.add-on,form div.clearfix.error .input-append span.add-on{background:#f4c8c5;border-color:#c87872;color:#b9554d;}
+table{width:100%;margin-bottom:18px;padding:0;border-collapse:separate;*border-collapse:collapse;font-size:13px;border:1px solid #ddd;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;}table th,table td{padding:10px 10px 9px;line-height:18px;text-align:left;}
+table th{padding-top:9px;font-weight:bold;vertical-align:middle;border-bottom:1px solid #ddd;}
+table td{vertical-align:top;}
+table th+th,table td+td{border-left:1px solid #ddd;}
+table tr+tr td{border-top:1px solid #ddd;}
+table tbody tr:first-child td:first-child{-webkit-border-radius:4px 0 0 0;-moz-border-radius:4px 0 0 0;border-radius:4px 0 0 0;}
+table tbody tr:first-child td:last-child{-webkit-border-radius:0 4px 0 0;-moz-border-radius:0 4px 0 0;border-radius:0 4px 0 0;}
+table tbody tr:last-child td:first-child{-webkit-border-radius:0 0 0 4px;-moz-border-radius:0 0 0 4px;border-radius:0 0 0 4px;}
+table tbody tr:last-child td:last-child{-webkit-border-radius:0 0 4px 0;-moz-border-radius:0 0 4px 0;border-radius:0 0 4px 0;}
+.zebra-striped tbody tr:nth-child(odd) td{background-color:#f9f9f9;}
+.zebra-striped tbody tr:hover td{background-color:#f5f5f5;}
+.zebra-striped .header{cursor:pointer;}.zebra-striped .header:after{content:"";float:right;margin-top:7px;border-width:0 4px 4px;border-style:solid;border-color:#000 transparent;visibility:hidden;}
+.zebra-striped .header:hover:after{visibility:visible;}
+footer{margin-top:17px;padding-top:17px;border-top:1px solid #eee;}
+.page-header{margin-bottom:17px;border-bottom:1px solid #ddd;-webkit-box-shadow:0 1px 0 rgba(255, 255, 255, 0.5);-moz-box-shadow:0 1px 0 rgba(255, 255, 255, 0.5);box-shadow:0 1px 0 rgba(255, 255, 255, 0.5);}.page-header h1{margin-bottom:8px;}
+.close{float:right;color:#000000;font-size:20px;font-weight:bold;line-height:13.5px;text-shadow:0 1px 0 #ffffff;filter:alpha(opacity=20);-khtml-opacity:0.2;-moz-opacity:0.2;opacity:0.2;}.close:hover{color:#000000;text-decoration:none;filter:alpha(opacity=40);-khtml-opacity:0.4;-moz-opacity:0.4;opacity:0.4;}
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>OSX CJK Font Plists</h1>
-        <p>List of OS X CJK Font Plists, not only Factorial version (XML format) but also modified version to fit Hiragino Sans or SHS.</p>
+pre {
+	padding: 0;
+	margin: 10px 0px 10px;
+	overflow: auto; /*--If the Code exceeds the width, a scrolling is available--*/
+	overflow-Y: hidden;  /*--Hides vertical scroll created by IE--*/
+}
+pre code {
+	margin: 5px;  /*--Left Margin--*/
+	padding: 0px;
+	display: block;
+    line-height: 18px;
+}
+.center { text-align:center}
+.left {text-align:left}
+.right {text-align:right}
 
-        <p class="view"><a href="https://github.com/ShikiSuen/OSXCJKFontPlists">View the Project on GitHub <small>ShikiSuen/OSXCJKFontPlists</small></a></p>
+</style><style type="text/css">
+body{font-size:14px;line-height:1.6;font-family: Helvetica, arial, freesans, clean, sans-serif;padding: 20px;}
+body>*:first-child{margin-top:0!important;}
+body>*:last-child{margin-bottom:0!important;}
+body a:active {outline: none;}
+body a:hover {text-decoration: underline;}
+body a {color: #4183C4;text-decoration: none;}
+body a.absent{color:#c00;}
+body h1, body h2, h3, h4, h5, h6{margin:20px 0 10px;padding:0;font-weight:bold;-webkit-font-smoothing:antialiased;}
+body h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code{font-size:inherit;}
+body h1{font-size:28px;color:#000;}
+body h2{font-size:24px;border-bottom:1px solid #ccc;color:#000;}
+body h3{font-size:18px;}
+body h4{font-size:16px;}
+body h5{font-size:14px;}
+body h6{color:#777;font-size:14px;}
+body p, blockquote, ul, ol, dl, li, table, pre{margin:15px 0;}
+body hr{background:transparent url('../../images/modules/pulls/dirty-shade.png') repeat-x 0 0;border:0 none;color:#ccc;height:4px;padding:0;}
+body>h2:first-child,>h1:first-child,>h1:first-child+h2,>h3:first-child,>h4:first-child,>h5:first-child,>h6:first-child{margin-top:0;padding-top:0;}
+body h1+p, h2+p, h3+p, h4+p, h5+p, h6+p{margin-top:0;}
+body li p.first{display:inline-block;}
+body ul, ol{padding-left:30px;}
+body ul li>:first-child, ol li>:first-child{margin-top:0;}
+body ul li>:last-child, ol li>:last-child{margin-bottom:0;}
+body dl{padding:0;}
+body dl dt{font-size:14px;font-weight:bold;font-style:italic;padding:0;margin:15px 0 5px;}
+body dl dt:first-child{padding:0;}
+body dl dt>:first-child{margin-top:0;}
+body dl dt>:last-child{margin-bottom:0;}
+body dl dd{margin:0 0 15px;padding:0 15px;}
+body dl dd>:first-child{margin-top:0;}
+body dl dd>:last-child{margin-bottom:0;}
+body blockquote{border-left:4px solid #DDD;padding:0 15px;color:#777;}
+body blockquote>:first-child{margin-top:0;}
+body blockquote>:last-child{margin-bottom:0;}
+body table{padding:0;}
+body table tr{border-top:1px solid #ccc;background-color:#fff;margin:0;padding:0;}
+body table tr:nth-child(2n){background-color:#f8f8f8;}
+body table tr th{font-weight:bold;}
+body table tr th, table tr td{border:1px solid #ccc;text-align:left;margin:0;padding:6px 13px;}
+body table tr th>:first-child, table tr td>:first-child{margin-top:0;}
+body table tr th>:last-child, table tr td>:last-child{margin-bottom:0;}
+body img{max-width:100%;}
+body span.frame{display:block;overflow:hidden;}
+body span.frame>span{border:1px solid #ddd;display:block;float:left;overflow:hidden;margin:13px 0 0;padding:7px;width:auto;}
+body span.frame span img{display:block;float:left;}
+body span.frame span span{clear:both;color:#333;display:block;padding:5px 0 0;}
+body span.align-center{display:block;overflow:hidden;clear:both;}
+body span.align-center>span{display:block;overflow:hidden;margin:13px auto 0;text-align:center;}
+body span.align-center span img{margin:0 auto;text-align:center;}
+body span.align-right{display:block;overflow:hidden;clear:both;}
+body span.align-right>span{display:block;overflow:hidden;margin:13px 0 0;text-align:right;}
+body span.align-right span img{margin:0;text-align:right;}
+body span.float-left{display:block;margin-right:13px;overflow:hidden;float:left;}
+body span.float-left span{margin:13px 0 0;}
+body span.float-right{display:block;margin-left:13px;overflow:hidden;float:right;}
+body span.float-right>span{display:block;overflow:hidden;margin:13px auto 0;text-align:right;}
+body code, tt{margin:0 2px;padding:0 5px;white-space:nowrap;border:1px solid #eaeaea;background-color:#f8f8f8;border-radius:3px;}
+body pre>code{margin:0;padding:0;white-space:pre;border:none;background:transparent;}
+body .highlight pre, pre{background-color:#f8f8f8;border:1px solid #ccc;font-size:13px;line-height:19px;overflow:auto;padding:6px 10px;border-radius:3px;}
+body pre code, pre tt{background-color:transparent;border:none;}
+</style></head>
+<body>
+<h1 id="toc_0">OSX CJK Font-Fallback Plists 專頁</h1>
 
+<p>本專頁的資料主要和 OS X 中日韓介面字體修改有關。<br></p>
 
-        <ul>
-          <li><a href="https://github.com/ShikiSuen/OSXCJKFontPlists/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/ShikiSuen/OSXCJKFontPlists/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/ShikiSuen/OSXCJKFontPlists">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
-        <h1>
-<a name="osxcjkfontplists" class="anchor" href="#osxcjkfontplists"><span class="octicon octicon-link"></span></a>OSXCJKFontPlists</h1>
+<ol>
+<li>請在取用具體的資料之前確保自己先了解其用途。<br></li>
+<li><u>敝专页以原生繁体中文撰写</u>，<u>仅习惯阅读简体中文的访客们请善用Chrome的同文堂扩展</u>。<br></li>
+<li>敝專頁的所有方法均要求當事電腦可以連線到GitHub。<br></li>
+<li>敝專頁目前暫時只服務 OS X Yosemite 使用者群體。<br></li>
+<li>敝專頁所提及的全部分頁的網址都會隨該大版本OS X的次版本更新而變動。<br></li>
+</ol>
 
-<p>该Git专案用于寄存一些现行修改好的OS X字体回退档案（包括原厂未修改的档案），<br>
-且全部转为XML明文格式（不妨碍使用）。<br>
-这些修改都是针对诸如思源黑体或者冬青黑体等第三方字体的相容性而进行的。</p>
+<h2 id="toc_1">同時修改多個區域的預設介面顯示字體的重要性</h2>
 
-<p>请且仅请在您了解这些档案的适用目的之后再考虑下载这些档案。<br></p>
+<p>假設你在用中文優先顯示為系統介面語系的時候，<br>
+如果系統字體的優先顯示順序被你設定為「簡體中文/繁體中文/日語/英文」的話，<br>
+某些沒有中文但有日文或繁體中文的軟體則不會遵循簡體中文的字體顯示設定。<br>
+所以有時候不只您常用的語系的預設介面字體需要修改。<br></p>
 
-<p>附注：用curl下载github的档案、并自动套用正确的系统档案权限的方法：<br></p>
+<h2 id="toc_2">如何恢復原廠字體設定</h2>
 
-<blockquote>
-<p>sudo curl -L 「GITHUB档案地址」\?raw\=true -o 「目标档案名称（包含路径）」<br></p>
-</blockquote>
+<p>在修改字體之前，需要先知道自己在字體修改失敗、或者後悔時所能做的。<br>
+該恢復過程可以便於檢查自己所遇到的錯誤究竟是否與字體修改過程本身有關。<br></p>
 
-<p>例如：<br></p>
+<p>如果華文黑體已經自系統內移除的話，則請在恢復原廠字體回退設定檔案之前、先恢復華文黑體：<br>
+<a href="https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/FactorialSTHeitiBackup">https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/FactorialSTHeitiBackup</a><br>
+（否則會出現無法預測的問題）<br></p>
 
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/README.md\?raw\=true -o ~/Desktop/"Hello World.txt"</code></pre>
+<p>關於恢復原廠字體回退設定檔案的方法請參見該分頁：<br>
+<a href="https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/FactorialPlists">https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/FactorialPlists</a><br></p>
 
-<p>==================================================================<br></p>
+<h2 id="toc_3">字體修改方案篇</h2>
 
-<p>該Git專案用於寄存一些現行修改好的OS X字體回退檔案（包括原廠未修改的檔案），<br>
-且全部轉為XML明文格式（不妨礙使用）。<br>
-這些修改都是針對諸如思源黑體或者冬青黑體等第三方字體的相容性而進行的。</p>
+<h3 id="toc_4">修改前須知</h3>
 
-<p>請且僅請在您了解這些檔案的適用目的之後再考慮下載這些檔案。<br></p>
+<p>請在套用對應分組的字體回退設定檔案修改方案之前，先確保這兩點：<br></p>
 
-<p>附註：用curl下載github的檔案、並自動套用正確的系統檔案權限的方法：<br></p>
+<ol>
+<li>所有上述字型檔案均需置入「/System/Library/Fonts/」資料夾以內。<br></li>
+<li>所有上述字型檔案均需繼承「/System/Library/Fonts/」資料夾本身的權限設定以糾正權限。<br>
+（其實用sudo指令擺入該資料夾即可糾正權限；凡是僅基於chmod的方法都是隔靴搔癢）<br>
+（我很難想像在脫離chown的情況下如何討論chmod設定權限的可行性）<br></li>
+</ol>
 
-<blockquote>
-<p>sudo curl -L 「GITHUB檔案地址」\?raw\=true -o 「目標檔案名稱（包含路徑）」<br></p>
-</blockquote>
+<p>不出意外的話，下述各方案所涉分頁當中都寫明了各自的、均藉由Terminal實現這兩點的方法。<br></p>
 
-<p>例如：<br></p>
+<p>您可能希望在套用對應分組的字體回退設定檔案修改方案之後移除華文黑體：<br></p>
 
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/README.md\?raw\=true -o ~/Desktop/"Hello World.txt"</code></pre>
+<pre><code>killall Finder
+sudo rm –Rf "/System/Library/Fonts/STHeiti Light.ttc"
+sudo rm –Rf "/System/Library/Fonts/STHeiti Medium.ttc"
+sudo rm –Rf "/System/Library/Fonts/STHeiti Thin.ttc"
+sudo rm –Rf "/System/Library/Fonts/STHeiti UltraLight.ttc"
+sudo rm –Rf "/Library/Fonts/华文细黑.ttf"
+sudo rm –Rf "/Library/Fonts/华文黑体.ttf"</code></pre>
 
-<p>==================================================================<br></p>
+<p>這樣可以防止華文黑體在某些應用程式介面當中詐屍還魂。<br>
+（關於華文黑體的恢復方法請參見上文，不再贅述）<br></p>
 
-<p>This Git Project is for hosting customized OS X CJK Font Plists.<br></p>
+<p>最後必須緊接著清理系統的字體快取/緩存，並緊接著重新開機：<br></p>
 
-<p>Not only Factorial version (converted into XML format),<br>
-but also modified version to fit 3rd-party fonts like Hiragino Sans or SHS.<br></p>
+<pre><code>sudo atsutil databases -remove
+sudo reboot</code></pre>
 
-<p>You should download files only if you know what they are and what they should be used for.<br></p>
+<p>修改字體的所有步驟，均需行雲流水、一次完成。<br>
+故請在修改之前將所有工作存檔、並將無關的應用全部關閉。<br></p>
 
-<p>You could use Terminal command for batch download purposes (with correct System Permission settings):</p>
+<h3 id="toc_5">【實例】修改系統中文介面字體為冬青黑體</h3>
 
-<blockquote>
-<p>sudo curl -L 「GITHUB FILE ADDRESS」\?raw\=true -o 「TARGET FILENAME WITH DIRECTORY」<br></p>
-</blockquote>
+<p>簡體中文介面語系自然是要使用冬青黑體簡體中文（ヒラギノ角ゴ 簡体中文），<br>
+但鑑於不同繁體中文的用戶偏好，我們給出了兩種方案：<br></p>
 
-<p>eg:<br></p>
+<ol>
+<li>繁體中文語系亦使用冬青黑體簡體中文做為介面字體：<br>
+<a href="https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraginoSansGB">https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraginoSansGB</a><br></li>
+<li>繁體中文語系使用冬青黑體Pro（ヒラギノ角ゴ Pro）：<br>
+<a href="https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB">https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB</a><br></li>
+</ol>
 
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/README.md\?raw\=true -o ~/Desktop/"Hello World.txt"</code></pre>
-      </section>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/ShikiSuen">ShikiSuen</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
-  </body>
+<p>請務必先完成具體分頁的說明當中「在套用該組檔案之前，您需先確認」處的要求，<br>
+再套用配套的字體回退設定檔案。<br></p>
+
+<h3 id="toc_6">【實例】修改系統簡繁日韓介面字體為思源黑體</h3>
+
+<p>鑑於上文所述之原因，簡繁日韓文都需要改成思源黑體。<br>
+<a href="https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/SHS-LSR">https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/SHS-LSR</a><br>
+請務必在套用字體回退設定檔案之前、<br>
+將字體檔案自動解壓縮下載到正確的位置，並確保其權限正確。<br>
+（根據該分頁當中給出的Terminal指令去做就可以了）</p>
+
+<h2 id="toc_7">寫在最後</h2>
+
+<p>敝專頁歸屬此Git專案進行維護：<br>
+<a href="https://github.com/ShikiSuen/OSXCJKFontPlists">https://github.com/ShikiSuen/OSXCJKFontPlists</a><br>
+如果大家發現問題的話（無論是網頁說明問題，還是分頁當中提到的檔案問題），<br>
+歡迎藉由該Git專案進行提報。<br></p>
+
+</body>
 </html>
