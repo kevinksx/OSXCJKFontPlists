@@ -23,7 +23,19 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Factorial
 sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Thin.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Thin.ttc"
 sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20UltraLight.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti UltraLight.ttc"
 sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/华文细黑.ttf\?raw\=true -o "/Library/Fonts/华文细黑.ttf"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/华文黑体.ttf\?raw\=true -o "/Library/Fonts/华文黑体.ttf"</code></pre>
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/华文黑体.ttf\?raw\=true -o "/Library/Fonts/华文黑体.ttf"
+chown root:wheel "/System/Library/Fonts/STHeiti Light.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti Light.ttc"
+chown root:wheel "/System/Library/Fonts/STHeiti Medium.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti Medium.ttc"
+chown root:wheel "/System/Library/Fonts/STHeiti Thin.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti Thin.ttc"
+chown root:wheel "/System/Library/Fonts/STHeiti UltraLight.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti UltraLight.ttc"
+chown root:wheel "/Library/Fonts/华文细黑.ttf"
+chmod 644 "/Library/Fonts/华文细黑.ttf"
+chown root:wheel "/Library/Fonts/华文细黑.ttf"
+chmod 644 "/Library/Fonts/华文细黑.ttf"</code></pre>
 
 请且仅请在您了解这些档案的适用目的之后再考虑下载这些档案。<br>
 
@@ -54,7 +66,19 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Factorial
 sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Thin.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Thin.ttc"
 sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20UltraLight.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti UltraLight.ttc"
 sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/华文细黑.ttf\?raw\=true -o "/Library/Fonts/华文细黑.ttf"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/华文黑体.ttf\?raw\=true -o "/Library/Fonts/华文黑体.ttf"</code></pre>
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/华文黑体.ttf\?raw\=true -o "/Library/Fonts/华文黑体.ttf"
+chown root:wheel "/System/Library/Fonts/STHeiti Light.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti Light.ttc"
+chown root:wheel "/System/Library/Fonts/STHeiti Medium.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti Medium.ttc"
+chown root:wheel "/System/Library/Fonts/STHeiti Thin.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti Thin.ttc"
+chown root:wheel "/System/Library/Fonts/STHeiti UltraLight.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti UltraLight.ttc"
+chown root:wheel "/Library/Fonts/华文细黑.ttf"
+chmod 644 "/Library/Fonts/华文细黑.ttf"
+chown root:wheel "/Library/Fonts/华文细黑.ttf"
+chmod 644 "/Library/Fonts/华文细黑.ttf"</code></pre>
 
 請且僅請在您瞭解這些檔案的適用目的之後再考慮下載這些檔案。<br>
 
@@ -84,6 +108,18 @@ sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Factorial
 sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Thin.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Thin.ttc"
 sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20UltraLight.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti UltraLight.ttc"
 sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/华文细黑.ttf\?raw\=true -o "/Library/Fonts/华文细黑.ttf"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/华文黑体.ttf\?raw\=true -o "/Library/Fonts/华文黑体.ttf"</code></pre>
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/华文黑体.ttf\?raw\=true -o "/Library/Fonts/华文黑体.ttf"
+chown root:wheel "/System/Library/Fonts/STHeiti Light.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti Light.ttc"
+chown root:wheel "/System/Library/Fonts/STHeiti Medium.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti Medium.ttc"
+chown root:wheel "/System/Library/Fonts/STHeiti Thin.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti Thin.ttc"
+chown root:wheel "/System/Library/Fonts/STHeiti UltraLight.ttc"
+chmod 644 "/System/Library/Fonts/STHeiti UltraLight.ttc"
+chown root:wheel "/Library/Fonts/华文细黑.ttf"
+chmod 644 "/Library/Fonts/华文细黑.ttf"
+chown root:wheel "/Library/Fonts/华文细黑.ttf"
+chmod 644 "/Library/Fonts/华文细黑.ttf"</code></pre>
 
 You should download files only if you know what they are and what they should be used for.<br>
