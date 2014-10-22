@@ -129,103 +129,66 @@ pre code {
 .right {text-align:right}
 
 </style><style type="text/css">
-html {
-	background-color: #f7f0f0;
-}
-
-body {
-	font-family: "Verdana", Arial, sans-serif;
-	
-	font-size: 13px;
-	margin: 10px;
-	background-color: #f8f1f1;
-	color: #333;
-}
-
-p {
-	font-family: "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
-	font-size: 14px;
-}
-
-a, a:visited {
-	color: #09c;
-}
-
-table, table th, table td {
-	border-color: #835b40;
-	padding: 5px;
-}
-
-table thead th {
-	color: whitesmoke;
-	background-color: #98694c;
-	padding: 5px;
-}
-
-a:hover {
-	color: #336699;
-	text-decoration: none;
-}
-
-h1 {
-	margin: 0px 0px 10px;	
-	letter-spacing:-2px;
-	font-weight: normal;
-	color: #835b40;
-}
-
-h2 {
-	border-bottom: 3px solid #FFCCAA;
-	margin: 5px 0px 15px;	
-		margin: 0px 0px 10px;	
-	letter-spacing:px;
-	font-size: 20px;
-	font-weight: normal;
-	color: #835b40;
-}
-
-h3, h4, h5, h6 {
-	color: #b17c59;
-}
-
-blockquote {
-	padding: 5px 10px;
-	border-left: 7px solid #ffccaa;
-	padding: 10px 0px 10px 10px;
-	margin: 15px 0px;
-	color:  #333;
-	font-family: "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
-	letter-spacing: px;
-	font-style: italic;
-	font-variant: normal;
-}
-
-ul, ol {
-	margin-bottom: 15px;
-}
-
-li {
-	padding: 3px;
-}
-
-code {
-	border: 1px solid rgba(249,172,130,0.66);
-	background-color: rgba(255,204,170,0.52);
-}
-
-pre {
-	background-color: #f1f1f1;
-}
-
-pre > code {
-	margin: 0px;
-	padding: 5px;
-	border: 0px;
-	background-color: #f1f1f1;
-}
-
-
-
+body{font-size:14px;line-height:1.6;font-family: Helvetica, arial, freesans, clean, sans-serif;padding: 20px;}
+body>*:first-child{margin-top:0!important;}
+body>*:last-child{margin-bottom:0!important;}
+body a:active {outline: none;}
+body a:hover {text-decoration: underline;}
+body a {color: #4183C4;text-decoration: none;}
+body a.absent{color:#c00;}
+body h1, body h2, h3, h4, h5, h6{margin:20px 0 10px;padding:0;font-weight:bold;-webkit-font-smoothing:antialiased;}
+body h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code{font-size:inherit;}
+body h1{font-size:28px;color:#000;}
+body h2{font-size:24px;border-bottom:1px solid #ccc;color:#000;}
+body h3{font-size:18px;}
+body h4{font-size:16px;}
+body h5{font-size:14px;}
+body h6{color:#777;font-size:14px;}
+body p, blockquote, ul, ol, dl, li, table, pre{margin:15px 0;}
+body hr{background:transparent url('../../images/modules/pulls/dirty-shade.png') repeat-x 0 0;border:0 none;color:#ccc;height:4px;padding:0;}
+body>h2:first-child,>h1:first-child,>h1:first-child+h2,>h3:first-child,>h4:first-child,>h5:first-child,>h6:first-child{margin-top:0;padding-top:0;}
+body h1+p, h2+p, h3+p, h4+p, h5+p, h6+p{margin-top:0;}
+body li p.first{display:inline-block;}
+body ul, ol{padding-left:30px;}
+body ul li>:first-child, ol li>:first-child{margin-top:0;}
+body ul li>:last-child, ol li>:last-child{margin-bottom:0;}
+body dl{padding:0;}
+body dl dt{font-size:14px;font-weight:bold;font-style:italic;padding:0;margin:15px 0 5px;}
+body dl dt:first-child{padding:0;}
+body dl dt>:first-child{margin-top:0;}
+body dl dt>:last-child{margin-bottom:0;}
+body dl dd{margin:0 0 15px;padding:0 15px;}
+body dl dd>:first-child{margin-top:0;}
+body dl dd>:last-child{margin-bottom:0;}
+body blockquote{border-left:4px solid #DDD;padding:0 15px;color:#777;}
+body blockquote>:first-child{margin-top:0;}
+body blockquote>:last-child{margin-bottom:0;}
+body table{padding:0;}
+body table tr{border-top:1px solid #ccc;background-color:#fff;margin:0;padding:0;}
+body table tr:nth-child(2n){background-color:#f8f8f8;}
+body table tr th{font-weight:bold;}
+body table tr th, table tr td{border:1px solid #ccc;text-align:left;margin:0;padding:6px 13px;}
+body table tr th>:first-child, table tr td>:first-child{margin-top:0;}
+body table tr th>:last-child, table tr td>:last-child{margin-bottom:0;}
+body img{max-width:100%;}
+body span.frame{display:block;overflow:hidden;}
+body span.frame>span{border:1px solid #ddd;display:block;float:left;overflow:hidden;margin:13px 0 0;padding:7px;width:auto;}
+body span.frame span img{display:block;float:left;}
+body span.frame span span{clear:both;color:#333;display:block;padding:5px 0 0;}
+body span.align-center{display:block;overflow:hidden;clear:both;}
+body span.align-center>span{display:block;overflow:hidden;margin:13px auto 0;text-align:center;}
+body span.align-center span img{margin:0 auto;text-align:center;}
+body span.align-right{display:block;overflow:hidden;clear:both;}
+body span.align-right>span{display:block;overflow:hidden;margin:13px 0 0;text-align:right;}
+body span.align-right span img{margin:0;text-align:right;}
+body span.float-left{display:block;margin-right:13px;overflow:hidden;float:left;}
+body span.float-left span{margin:13px 0 0;}
+body span.float-right{display:block;margin-left:13px;overflow:hidden;float:right;}
+body span.float-right>span{display:block;overflow:hidden;margin:13px auto 0;text-align:right;}
+body code, tt{margin:0 2px;padding:0 5px;white-space:nowrap;border:1px solid #eaeaea;background-color:#f8f8f8;border-radius:3px;}
+body pre>code{margin:0;padding:0;white-space:pre;border:none;background:transparent;}
+body .highlight pre, pre{background-color:#f8f8f8;border:1px solid #ccc;font-size:13px;line-height:19px;overflow:auto;padding:6px 10px;border-radius:3px;}
+body pre code, pre tt{background-color:transparent;border:none;}
 </style></head>
 <body>
 <h1 id="toc_0">OSX CJK Font-Fallback Plists 專頁</h1>
@@ -259,9 +222,17 @@ pre > code {
 <p>關於恢復原廠字體回退設定檔案的方法請參見該分頁：<br>
 <a href="https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/FactorialPlists">https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/FactorialPlists</a><br></p>
 
-<h2 id="toc_3">字體修改方案篇</h2>
+<h2 id="toc_3">字體修改原理篇</h2>
 
-<h3 id="toc_4">修改前須知</h3>
+<p>請閱讀針對「CTPresetFallbacks.plist」的分析報告：<br>
+<a href="http://shikisuen.github.io/OSXCJKFontPlists/CTPresetFallbackAnalysis.html">http://shikisuen.github.io/OSXCJKFontPlists/CTPresetFallbackAnalysis.html</a></p>
+
+<p>至於「DefaultFontFallbacks.plist」，只需要修改「default」、「monospace」、「sans-serif」就行了。<br>
+建議結合「CTPresetFallbacks.plist」的分析報告、自行閱讀了解並舉一反三。<br></p>
+
+<h2 id="toc_4">字體修改方案篇</h2>
+
+<h3 id="toc_5">修改前須知</h3>
 
 <p>請在套用對應分組的字體回退設定檔案修改方案之前，先確保這兩點：<br></p>
 
@@ -295,7 +266,7 @@ sudo reboot</code></pre>
 <p>修改字體的所有步驟，均需行雲流水、一次完成。<br>
 故請在修改之前將所有工作存檔、並將無關的應用全部關閉。<br></p>
 
-<h3 id="toc_5">【實例】修改系統中文介面字體為冬青黑體</h3>
+<h3 id="toc_6">【實例】修改系統中文介面字體為冬青黑體</h3>
 
 <p>簡體中文介面語系自然是要使用冬青黑體簡體中文（ヒラギノ角ゴ 簡体中文），<br>
 但鑑於不同繁體中文的用戶偏好，我們給出了兩種方案：<br></p>
@@ -310,7 +281,7 @@ sudo reboot</code></pre>
 <p>請務必先完成具體分頁的說明當中「在套用該組檔案之前，您需先確認」處的要求，<br>
 再套用配套的字體回退設定檔案。<br></p>
 
-<h3 id="toc_6">【實例】修改系統簡繁日韓介面字體為思源黑體</h3>
+<h3 id="toc_7">【實例】修改系統簡繁日韓介面字體為思源黑體</h3>
 
 <p>鑑於上文所述之原因，簡繁日韓文都需要改成思源黑體。<br>
 <a href="https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/SHS-LSR">https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/SHS-LSR</a><br>
@@ -318,7 +289,7 @@ sudo reboot</code></pre>
 將字體檔案自動解壓縮下載到正確的位置，並確保其權限正確。<br>
 （根據該分頁當中給出的Terminal指令去做就可以了）</p>
 
-<h2 id="toc_7">寫在最後</h2>
+<h2 id="toc_8">寫在最後</h2>
 
 <p>敝專頁歸屬此Git專案進行維護：<br>
 <a href="https://github.com/ShikiSuen/OSXCJKFontPlists">https://github.com/ShikiSuen/OSXCJKFontPlists</a><br>
