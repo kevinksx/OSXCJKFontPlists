@@ -228,7 +228,7 @@ pre > code {
 
 </style></head>
 <body>
-<h1 id="toc_0">CTPresetFallback 分析</h1>
+<h1 id="toc_0">CTPresetFallbacks 分析</h1>
 
 <p>本文適用於 OS X Yosemite；<br>
 從宏觀到微觀分別是：字體區段 ⥤ 字重節點 ⥤ 語序節點 ⥤ 字體回退清單。</p>
@@ -455,6 +455,38 @@ pre > code {
 <p>雖然思源有七個字重，但不是所有字重都和 Helvetica Neue 在粗細方面完美對應。<br>
 於是，Helvetica Neue 的 Light 對應思源黑體的 Normal 字重、<br>
 且其 Thin &amp; Ultralight 均對應思源黑體的 Extralight 字重。<br></p>
+
+<h2 id="toc_11">修改原理探討</h2>
+
+<p>理想的修改方案可以是這種步驟（如果您沒有針對特定語序的字體回退設定偏好的話）：<br></p>
+
+<ol>
+<li>遍歷某字重節點下的所有語序節點，可以藉由其中的CJK字重關鍵詞定位；<br></li>
+<li>根據上述表格當中給出的字段特徵，實現有針對性的字串取代。<br></li>
+</ol>
+
+<p>以 Yosemite 10.10 14A389 原廠的 CTPresetFallbacks.plist 為例：<br>
+（修改成能用於思源黑體OTC的版本）<br></p>
+
+<ul>
+<li>[STEP 1] // 針對每個 Bold 字重節點：<br>
+<code>Font-Medium</code> Replaced to <code>Font-Bold</code><br></li>
+<li>[STEP 2] // 針對每個 Heavy 字重節點：<br>
+<code>Font-Medium</code> Replaced to <code>Font-Heavy</code><br>
+<code>Font-Bold</code> Replaced to <code>Font-Heavy</code><br></li>
+<li>[STEP 3] // 針對每個 Light 字重節點：<br>
+<code>Font-Light</code> Replaced to <code>Font-Normal</code><br></li>
+<li>[STEP 4] // 針對每個 Thin and UltraLightP2 字重節點：<br>
+<code>Font-Thin</code> Replaced to <code>Font-ExtraLight</code><br>
+<code>Font-UltraLight</code> Replaced to <code>Font-ExtraLight</code><br></li>
+<li>[STEP 5] // 最終，針對整個 CTPresetFallbacks.plist 檔案：<br>
+<code>.AppleTraditionalChineseFont</code> Replaced to <code>SourceHanSansTC</code><br>
+<code>.AppleSimplifiedChineseFont</code> Replaced to <code>SourceHanSansSC</code><br>
+<code>.AppleKoreanFont</code> Replaced to <code>SourceHanSansK</code><br>
+.<code>AppleJapaneseFont</code> Replaced to <code>SourceHanSans</code><br></li>
+</ul>
+
+<p>冬青黑體的修改方案相對而言要簡單一些，各位可以自行研究。</p>
 
 </body>
 </html>
