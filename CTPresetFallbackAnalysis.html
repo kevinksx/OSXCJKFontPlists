@@ -468,34 +468,40 @@ pre > code {
 <p>以 Yosemite 10.10 14A389 原廠的 CTPresetFallbacks.plist 為例：<br>
 （修改成能用於思源黑體OTC的版本）<br></p>
 
-<ul>
-<li>[STEP 1] // 針對每個 Bold 字重節點：<br>
-<code>Font-Medium</code> Replaced to <code>Font-Bold</code><br></li>
-<li>[STEP 2] // 針對每個 Heavy 字重節點：<br>
-<code>Font-Medium</code> Replaced to <code>Font-Heavy</code><br>
-<code>Font-Bold</code> Replaced to <code>Font-Heavy</code><br></li>
-<li>[STEP 3] // 針對每個 Light 字重節點：<br>
-<code>Font-Light</code> Replaced to <code>Font-Normal</code><br></li>
-<li>[STEP 4] // 針對每個 Thin and UltraLightP2 字重節點：<br>
-<code>Font-Thin</code> Replaced to <code>Font-ExtraLight</code><br>
-<code>Font-UltraLight</code> Replaced to <code>Font-ExtraLight</code><br></li>
-<li>[STEP 5] // 最終，針對整個 CTPresetFallbacks.plist 檔案：<br>
-<code>.AppleTraditionalChineseFont</code> Replaced to <code>SourceHanSansTC</code><br>
-<code>.AppleSimplifiedChineseFont</code> Replaced to <code>SourceHanSansSC</code><br>
-<code>.AppleKoreanFont</code> Replaced to <code>SourceHanSansK</code><br>
-.<code>AppleJapaneseFont</code> Replaced to <code>SourceHanSans</code><br></li>
-</ul>
+<blockquote>
+<ol>
+<li>針對每個 Bold 字重節點：<br>
+<code>Font-Medium</code> 換成 <code>Font-Bold</code><br></li>
+<li>針對每個 Heavy 字重節點：<br>
+<code>Font-Medium</code> 換成 <code>Font-Heavy</code><br>
+<code>Font-Bold</code> 換成 <code>Font-Heavy</code><br></li>
+<li>針對每個 Light 字重節點：<br>
+<code>Font-Light</code> 換成 <code>Font-Normal</code><br></li>
+<li>針對每個 Thin 和 UltraLightP2 字重節點：<br>
+<code>Font-Thin</code> 換成 <code>Font-ExtraLight</code><br>
+<code>Font-UltraLight</code> 換成 <code>Font-ExtraLight</code><br></li>
+<li>最終，針對整個 CTPresetFallbacks.plist 檔案：<br>
+<code>.AppleTraditionalChineseFont</code> 換成 <code>SourceHanSansTC</code><br>
+<code>.AppleSimplifiedChineseFont</code> 換成 <code>SourceHanSansSC</code><br>
+<code>.AppleKoreanFont</code> 換成 <code>SourceHanSansK</code><br>
+<code>.AppleJapaneseFont</code> 換成 <code>SourceHanSans</code><br></li>
+</ol>
+</blockquote>
 
 <p>冬青黑體使用這種方法登記於 CTPresetFallbacks.plist 的話，相對而言要簡單一些：<br></p>
 
-<p><code>.AppleTraditionalChineseFont-Medium</code> 換成 <code>HiraKakuPro-W6</code>；<br>
-<code>.AppleSimplifiedChineseFont-Medium</code> 換成 <code>HiraginoSansGB-W6</code>；<br>
-<code>.AppleTraditionalChineseFont-Regular</code> 換成 <code>HiraKakuPro-W3</code>；<br>
-<code>.AppleSimplifiedChineseFont-Regular</code> 換成 <code>HiraginoSansGB-W3</code>；<br>
-<code>.AppleTraditionalChineseFont-Light</code> 換成 <code>HiraKakuPro-W3</code>；<br>
-<code>.AppleSimplifiedChineseFont-Light</code> 換成 <code>HiraginoSansGB-W3</code>；<br>
-<code>.AppleTraditionalChineseFont-Ultralight</code> 換成 <code>.AppleJapaneseFont-Thin</code>；<br>
-<code>.AppleSimplifiedChineseFont-Ultralight</code> 換成 <code>.AppleJapaneseFont-Thin</code>；<br></p>
+<blockquote>
+<ol>
+<li><code>.AppleTraditionalChineseFont-Medium</code> 換成 <code>HiraKakuPro-W6</code>；<br>
+<code>.AppleSimplifiedChineseFont-Medium</code> 換成 <code>HiraginoSansGB-W6</code>；<br></li>
+<li><code>.AppleTraditionalChineseFont-Regular</code> 換成 <code>HiraKakuPro-W3</code>；<br>
+<code>.AppleSimplifiedChineseFont-Regular</code> 換成 <code>HiraginoSansGB-W3</code>；<br></li>
+<li><code>.AppleTraditionalChineseFont-Light</code> 換成 <code>HiraKakuPro-W3</code>；<br>
+<code>.AppleSimplifiedChineseFont-Light</code> 換成 <code>HiraginoSansGB-W3</code>；<br></li>
+<li><code>.AppleTraditionalChineseFont-Ultralight</code> 換成 <code>.AppleJapaneseFont-Thin</code>；<br>
+<code>.AppleSimplifiedChineseFont-Ultralight</code> 換成 <code>.AppleJapaneseFont-Thin</code>；<br></li>
+</ol>
+</blockquote>
 
 <p>但其實理想的修改方案最好是「設定」而不是什麼都要基於原廠檔案的內容逐條取代之，<br>
 只是，就「設定」的話，因為每個語序節點下的字體回退清單的每一筆資料都沒有可供定位的標頭，<br>
