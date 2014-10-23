@@ -5,8 +5,8 @@
 > /System/Library/Frameworks/CoreText.framework/Versions/A/Resources<br>
 
 可以藉由如下自动化指令将字体回退档案自动下载到正确的位置、并自动配置正确的系统级档案权限：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://raw.githubusercontent.com/ShikiSuen/OSXCJKFontPlists/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://raw.githubusercontent.com/ShikiSuen/OSXCJKFontPlists/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
@@ -49,8 +49,8 @@ chmod 644 /System/Library/Fonts/"ヒラギノ角ゴ Pro W6.otf"</code></pr
 > /System/Library/Frameworks/CoreText.framework/Versions/A/Resources<br>
 
 可以藉由如下自動化指令將字體回退檔案自動下載到正確的位置、並自動配置正確的系統級檔案權限：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://raw.githubusercontent.com/ShikiSuen/OSXCJKFontPlists/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://raw.githubusercontent.com/ShikiSuen/OSXCJKFontPlists/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
@@ -93,8 +93,8 @@ Font Fallback plists files should be placed in the following folder and inherit 
 > /System/Library/Frameworks/CoreText.framework/Versions/A/Resources<br>
 
 You could use following Terminal commands to download and place them well with correct System Permission settings unless you have no access to GitHub:<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://raw.githubusercontent.com/ShikiSuen/OSXCJKFontPlists/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://raw.githubusercontent.com/ShikiSuen/OSXCJKFontPlists/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
