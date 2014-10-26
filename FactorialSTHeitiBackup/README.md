@@ -18,12 +18,12 @@
 且需继承该目录本身的权限设定。<br>
 
 可以藉由如下自动化指令来一次性完成华文黑体的还原工作（请确保可以正常连线到Github）：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Light.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Light.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Medium.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Medium.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Thin.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Thin.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20UltraLight.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti UltraLight.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E7%BB%86%E9%BB%91.ttf?raw=true -o "/Library/Fonts/华文细黑.ttf"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E9%BB%91%E4%BD%93.ttf?raw=true -o "/Library/Fonts/华文黑体.ttf"
+<pre><code>sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Light.ttc?raw=true" -o "/System/Library/Fonts/STHeiti Light.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Medium.ttc?raw=true" -o "/System/Library/Fonts/STHeiti Medium.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Thin.ttc?raw=true" -o "/System/Library/Fonts/STHeiti Thin.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20UltraLight.ttc?raw=true" -o "/System/Library/Fonts/STHeiti UltraLight.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E7%BB%86%E9%BB%91.ttf?raw=true" -o "/Library/Fonts/华文细黑.ttf"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E9%BB%91%E4%BD%93.ttf?raw=true" -o "/Library/Fonts/华文黑体.ttf"
 sudo chown root:wheel "/System/Library/Fonts/STHeiti Light.ttc"
 sudo chmod 644 "/System/Library/Fonts/STHeiti Light.ttc"
 sudo chown root:wheel "/System/Library/Fonts/STHeiti Medium.ttc"
@@ -61,12 +61,12 @@ sudo chmod 644 "/Library/Fonts/华文细黑.ttf"</code></pre>
 且需繼承該目錄本身的權限設定。<br>
 
 可以藉由如下自動化指令來一次性完成華文黑體的還原工作（請確保可以正常連線到Github）：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Light.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Light.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Medium.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Medium.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Thin.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Thin.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20UltraLight.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti UltraLight.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E7%BB%86%E9%BB%91.ttf?raw=true -o "/Library/Fonts/华文细黑.ttf"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E9%BB%91%E4%BD%93.ttf?raw=true -o "/Library/Fonts/华文黑体.ttf"
+<pre><code>sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Light.ttc?raw=true" -o "/System/Library/Fonts/STHeiti Light.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Medium.ttc?raw=true" -o "/System/Library/Fonts/STHeiti Medium.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Thin.ttc?raw=true" -o "/System/Library/Fonts/STHeiti Thin.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20UltraLight.ttc?raw=true" -o "/System/Library/Fonts/STHeiti UltraLight.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E7%BB%86%E9%BB%91.ttf?raw=true" -o "/Library/Fonts/华文细黑.ttf"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E9%BB%91%E4%BD%93.ttf?raw=true" -o "/Library/Fonts/华文黑体.ttf"
 sudo chown root:wheel "/System/Library/Fonts/STHeiti Light.ttc"
 sudo chmod 644 "/System/Library/Fonts/STHeiti Light.ttc"
 sudo chown root:wheel "/System/Library/Fonts/STHeiti Medium.ttc"
@@ -103,12 +103,12 @@ Put following files into "/System/Library/Fonts/" folder:<br>
 And these files should inherit permission settings from this folder.<br>
 
 You could use following Terminal commands to do all of these recovery works I mentioned above unless you have no access to GitHub:<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Light.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Light.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Medium.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Medium.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Thin.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti Thin.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20UltraLight.ttc\?raw\=true -o "/System/Library/Fonts/STHeiti UltraLight.ttc"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E7%BB%86%E9%BB%91.ttf?raw=true -o "/Library/Fonts/华文细黑.ttf"
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E9%BB%91%E4%BD%93.ttf?raw=true -o "/Library/Fonts/华文黑体.ttf"
+<pre><code>sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Light.ttc?raw=true" -o "/System/Library/Fonts/STHeiti Light.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Medium.ttc?raw=true" -o "/System/Library/Fonts/STHeiti Medium.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20Thin.ttc?raw=true" -o "/System/Library/Fonts/STHeiti Thin.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/STHeiti%20UltraLight.ttc?raw=true" -o "/System/Library/Fonts/STHeiti UltraLight.ttc"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E7%BB%86%E9%BB%91.ttf?raw=true" -o "/Library/Fonts/华文细黑.ttf"
+sudo curl -L "https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/FactorialSTHeitiBackup/%E5%8D%8E%E6%96%87%E9%BB%91%E4%BD%93.ttf?raw=true" -o "/Library/Fonts/华文黑体.ttf"
 sudo chown root:wheel "/System/Library/Fonts/STHeiti Light.ttc"
 sudo chmod 644 "/System/Library/Fonts/STHeiti Light.ttc"
 sudo chown root:wheel "/System/Library/Fonts/STHeiti Medium.ttc"
