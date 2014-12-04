@@ -28,7 +28,7 @@ https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/FactorialSTHeitiBackup
 （否則會出現無法預測的問題）<br>
 
 關於恢復原廠字體回退設定檔案的方法請參見該分頁：<br>
-https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/FactorialPlists<br>
+https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14B25/FactorialPlists<br>
 
 字體修改方案篇
 --------
@@ -68,9 +68,9 @@ sudo reboot</code></pre>
 但鑑於不同繁體中文的用戶偏好，我們給出了兩種方案：<br>
 
 1. 繁體中文語系亦使用冬青黑體簡體中文做為介面字體：<br>
-https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraginoSansGB<br>
+https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14B25/HiraginoSansGB<br>
 2. 繁體中文語系使用冬青黑體Pro（ヒラギノ角ゴ Pro）：<br>
-https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/HiraKaku-to-HiraSansGB<br>
+https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14B25/HiraKaku-to-HiraSansGB<br>
 
 請務必先完成具體分頁的說明當中「在套用該組檔案之前，您需先確認」處的要求，<br>
 再套用配套的字體回退設定檔案。<br>
@@ -78,7 +78,7 @@ https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/
 ###【實例】修改系統簡繁日韓介面字體為思源黑體###
 
 鑑於上文所述之原因，簡繁日韓文都需要改成思源黑體。<br>
-https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14A389/SHS-LSR<br>
+https://github.com/ShikiSuen/OSXCJKFontPlists/tree/master/Yosemite-10.10-14B25/SHS-LSR<br>
 請務必在套用字體回退設定檔案之前、<br>
 將字體檔案自動解壓縮下載到正確的位置，並確保其權限正確。<br>
 （根據該分頁當中給出的Terminal指令去做就可以了）
