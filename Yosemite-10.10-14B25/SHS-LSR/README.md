@@ -1,12 +1,12 @@
 该资料夹包含修改过的Yosemite字体回退档案，<br>
-适用范围从Developer Preview 5起、已知其可用于Yosemite正式版14A389。<br>
+适用范围从Developer Preview 5起、已知其可用于Yosemite正式版14B25。<br>
 
 字体回退档案需置于该目录、且继承该目录本身的权限设定:<br>
 - /System/Library/Frameworks/CoreText.framework/Versions/A/Resources<br>
 
 可以藉由如下自动化指令将字体回退档案自动下载到正确的位置、并自动配置正确的系统级档案权限：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/SHS-LSR/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/SHS-LSR/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14B25/SHS-LSR/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14B25/SHS-LSR/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
@@ -30,30 +30,29 @@ sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resource
 
 您可以藉由如下自动化指令将字体档案自动解压缩下载到正确的位置、并自动配置正确的系统级档案权限：<br>
 <pre><code>curl -L https://github.com/adobe-fonts/source-han-sans/blob/release/SuperOTC/SourceHanSans.ttc.zip\?raw\=true | bsdtar -xvf-
-sudo cp SourceHanSans.ttc /System/Library/Fonts
-sudo chown root:wheel /System/Library/Fonts/SourceHanSans.ttc
-sudo chmod 644 /System/Library/Fonts/SourceHanSans.ttc</code></pre>
+sudo cp SourceHanSans.ttc /Library/Fonts
+sudo chown root:wheel /Library/Fonts/SourceHanSans.ttc
+sudo chmod 644 /Library/Fonts/SourceHanSans.ttc</code></pre>
 
 在套用该组档案之前，您需先确认：<br>
 
-1. 所有上述字型档案均需置入「/System/Library/Fonts/」资料夹以内。<br>
-2. 所有上述字型档案均需继承「/System/Library/Fonts/」资料夹本身的权限设定以纠正权限。<br>
-（其实用sudo指令摆入该资料夹即可纠正权限；凡是仅基于sudo chmod的方法都是隔靴搔痒）<br>
-（我很难想像在脱离sudo chown的情况下如何讨论sudo chmod设定权限的可行性）<br>
+1. 所有上述字型档案均需置入「/System/Library/Fonts/」或「/Library/Fonts/」资料夹以内。<br>
+2. 所有上述字型档案均需設定权限为「chown root:wheel」+「chmod 644」。<br>
+（其实用sudo指令摆入目标资料夹即可纠正权限；chmod必须搭配chown使用）<br>
 
 请且仅请在您了解这些档案的适用目的之后再考虑下载这些档案。<br>
 
 ==============================================================================<br>
 
 該資料夾包含修改過的Yosemite字體回退檔案，<br>
-適用範圍從Developer Preview 5起、已知其可用於Yosemite正式版14A389。<br>
+適用範圍從Developer Preview 5起、已知其可用於Yosemite正式版14B25。<br>
 
 字體回退檔案需置於該目錄、且繼承該目錄本身的權限設定:<br>
 - /System/Library/Frameworks/CoreText.framework/Versions/A/Resources<br>
 
 可以藉由如下自動化指令將字體回退檔案自動下載到正確的位置、並自動配置正確的系統級檔案權限：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/SHS-LSR/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/SHS-LSR/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14B25/SHS-LSR/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14B25/SHS-LSR/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
@@ -77,30 +76,29 @@ sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resource
 
 以SuperOTC為例，可以藉由如下自動化指令將字體檔案自動解壓縮下載到正確的位置、並自動配置正確的系統級檔案權限：<br>
 <pre><code>curl -L https://github.com/adobe-fonts/source-han-sans/blob/release/SuperOTC/SourceHanSans.ttc.zip\?raw\=true | bsdtar -xvf-
-sudo cp SourceHanSans.ttc /System/Library/Fonts
-sudo chown root:wheel /System/Library/Fonts/SourceHanSans.ttc
-sudo chmod 644 /System/Library/Fonts/SourceHanSans.ttc</code></pre>
+sudo cp SourceHanSans.ttc /Library/Fonts
+sudo chown root:wheel /Library/Fonts/SourceHanSans.ttc
+sudo chmod 644 /Library/Fonts/SourceHanSans.ttc</code></pre>
 
 在套用該組檔案之前，您需先確認：<br>
 
-1. 所有上述字型檔案均需置入「/System/Library/Fonts/」資料夾以內。<br>
-2. 所有上述字型檔案均需繼承「/System/Library/Fonts/」資料夾本身的權限設定以糾正權限。<br>
-（其實用sudo指令擺入該資料夾即可糾正權限；凡是僅基於sudo chmod的方法都是隔靴搔癢）<br>
-（我很難想像在脫離sudo chown的情況下如何討論sudo chmod設定權限的可行性）<br>
+1. 所有上述字型檔案均需置入「/System/Library/Fonts/」或「/Library/Fonts/」資料夾以內。<br>
+2. 所有上述字型檔案均需設定許可權為「chown root:wheel」+「chmod 644」。<br>
+（其實用sudo指令擺入目標資料夾即可糾正許可權；chmod必須搭配chown使用）<br>
 
 請且僅請在您了解這些檔案的適用目的之後再考慮下載這些檔案。<br>
 
 ==============================================================================<br>
 
-This folder contains customized font fallback plist files of Yosemite since Developer Preview 5 till RTM build 14A389.<br>
+This folder contains customized font fallback plist files of Yosemite since Developer Preview 5 till RTM build 14B25.<br>
 
 Font Fallback plists files should be placed in the following folder and inherit permission settings from it:<br>
 - /System/Library/Frameworks/CoreText.framework/Versions/A/Resources<br>
 
 You could use following Terminal commands to download and place them well with correct System Permission settings unless you have no access to GitHub:<br>
 
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/SHS-LSR/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14A389/SHS-LSR/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14B25/SHS-LSR/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14B25/SHS-LSR/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
@@ -124,9 +122,9 @@ You have responsibility to extract them if they are compressed zip package.<br>
 
 For example of using SuperOTC, you could use following Terminal commands to download and place the font well with correct System Permission settings unless you have no access to GitHub:<br>
 <pre><code>curl -L https://github.com/adobe-fonts/source-han-sans/blob/release/SuperOTC/SourceHanSans.ttc.zip\?raw\=true | bsdtar -xvf-
-sudo cp SourceHanSans.ttc /System/Library/Fonts
-sudo chown root:wheel /System/Library/Fonts/SourceHanSans.ttc
-sudo chmod 644 /System/Library/Fonts/SourceHanSans.ttc</code></pre>
+sudo cp SourceHanSans.ttc /Library/Fonts
+sudo chown root:wheel /Library/Fonts/SourceHanSans.ttc
+sudo chmod 644 /Library/Fonts/SourceHanSans.ttc</code></pre>
 
 You should make sure following things have done before applying this set of font fallback plists:<br>
 
