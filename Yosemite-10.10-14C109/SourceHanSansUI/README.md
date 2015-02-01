@@ -5,8 +5,8 @@
 - /System/Library/Frameworks/CoreText.framework/Versions/A/Resources<br>
 
 可以藉由如下自动化指令将字体回退档案自动下载到正确的位置、并自动配置正确的系统级档案权限：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SHSDeskInterface/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SHSDeskInterface/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SourceHanSansUI/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SourceHanSansUI/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
@@ -19,18 +19,18 @@ sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resource
 - OS X 韩文介面语系使用 Source Han Sans UI K 作为介面字体。<br>
 - OS X 日文介面语系使用 Source Han Sans UI J 作为介面字体。<br>
 
-思源黑体UI（Source Han Sans UI, 又称 SHSDeskInterface）相关资讯见此：<br>
-- https://github.com/ShikiSuen/SHSDeskInterface<br>
+思源黑体UI（Source Han Sans UI）相关资讯见此：<br>
+- https://github.com/ShikiSuen/SourceHanSansUI<br>
 
 您在使用该组字体回退档案时，有义务下载您所选择的编译分支当中的全部字体档案（而不是仅下载您所偏好的语言）。<br>
 
 如果您下载来的档案是诸如zip之类的压缩格式，您有义务在使用之前对其进行解压缩操作。<br>
 
 您可以藉由如下自动化指令将字体档案自动解压缩下载到正确的位置、并自动配置正确的系统级档案权限：<br>
-<pre><code>curl -L https://github.com/ShikiSuen/SHSDeskInterface/raw/master/SHSDeskInterface-SuperOTC.zip\?raw\=true | bsdtar -xvf-
-sudo cp SHSDeskInterface.ttc /Library/Fonts
-sudo chown root:wheel /Library/Fonts/SHSDeskInterface.ttc
-sudo chmod 644 /Library/Fonts/SHSDeskInterface.ttc</code></pre>
+<pre><code>curl -L https://github.com/ShikiSuen/SourceHanSansUI/raw/master/SourceHanSansUI-SuperOTC.zip\?raw\=true | bsdtar -xvf-
+sudo cp SourceHanSansUI.ttc /Library/Fonts
+sudo chown root:wheel /Library/Fonts/SourceHanSansUI.ttc
+sudo chmod 644 /Library/Fonts/SourceHanSansUI.ttc</code></pre>
 
 在套用该组档案之前，您需先确认：<br>
 
@@ -49,8 +49,8 @@ sudo chmod 644 /Library/Fonts/SHSDeskInterface.ttc</code></pre>
 - /System/Library/Frameworks/CoreText.framework/Versions/A/Resources<br>
 
 可以藉由如下自動化指令將字體回退檔案自動下載到正確的位置、並自動配置正確的系統級檔案許可權：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SHSDeskInterface/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SHSDeskInterface/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SourceHanSansUI/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SourceHanSansUI/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
@@ -63,18 +63,18 @@ sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resource
 - OS X 韓文介面語系使用 Source Han Sans UI K 作為介面字體。<br>
 - OS X 日文介面語系使用 Source Han Sans UI J 作為介面字體。<br>
 
-思源黑體UI（Source Han Sans UI, 又稱 SHSDeskInterface）相關資訊見此：<br>
-- https://github.com/ShikiSuen/SHSDeskInterface<br>
+思源黑體UI（Source Han Sans UI）相關資訊見此：<br>
+- https://github.com/ShikiSuen/SourceHanSansUI<br>
 
 您在使用該組字體回退檔案時，有義務下載您所選擇的編譯分支當中的全部字體檔案（而不是僅下載您所偏好的語言）。<br>
 
 如果您下載來的檔案是諸如zip之類的壓縮格式，您有義務在使用之前對其進行解壓縮操作。<br>
 
 您可以藉由如下自動化指令將字體檔案自動解壓縮下載到正確的位置、並自動配置正確的系統級檔案許可權：<br>
-<pre><code>curl -L https://github.com/ShikiSuen/SHSDeskInterface/raw/master/SHSDeskInterface-SuperOTC.zip\?raw\=true | bsdtar -xvf-
-sudo cp SHSDeskInterface.ttc /Library/Fonts
-sudo chown root:wheel /Library/Fonts/SHSDeskInterface.ttc
-sudo chmod 644 /Library/Fonts/SHSDeskInterface.ttc</code></pre>
+<pre><code>curl -L https://github.com/ShikiSuen/SourceHanSansUI/raw/master/SourceHanSansUI-SuperOTC.zip\?raw\=true | bsdtar -xvf-
+sudo cp SourceHanSansUI.ttc /Library/Fonts
+sudo chown root:wheel /Library/Fonts/SourceHanSansUI.ttc
+sudo chmod 644 /Library/Fonts/SourceHanSansUI.ttc</code></pre>
 
 在套用該組檔案之前，您需先確認：<br>
 
@@ -93,8 +93,8 @@ Font Fallback plists files should be placed in the following folder and inherit 
 
 You could use following Terminal commands to download and place them well with correct System Permission settings unless you have no access to GitHub:<br>
 
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SHSDeskInterface/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SHSDeskInterface/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SourceHanSansUI/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14C109/SourceHanSansUI/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
@@ -107,18 +107,18 @@ They are customized for the following setting:<br>
 - Korean GUI of OS X uses Source Han Sans UI K as its GUI font.<br>
 - Japanese GUI of OS X uses Source Han Sans UI J as its GUI font.<br>
 
-For more intel about Source Han Sans UI (a.k.a. SHSDeskInterface), please visit:<br>
-- https://github.com/ShikiSuen/SHSDeskInterface<br>
+For more intel about Source Han Sans UI, please visit:<br>
+- https://github.com/ShikiSuen/SourceHanSansUI<br>
 
 You should always install all files of a build with this set of plists (not just download the version of you preferred language only).<br>
 
 You have responsibility to extract them if they are compressed zip package.<br>
 
 You could use following Terminal commands to download and place the font well with correct System Permission settings unless you have no access to GitHub:<br>
-<pre><code>curl -L https://github.com/ShikiSuen/SHSDeskInterface/raw/master/SHSDeskInterface-SuperOTC.zip\?raw\=true | bsdtar -xvf-
-sudo cp SHSDeskInterface.ttc /System/Library/Fonts
-sudo chown root:wheel /System/Library/Fonts/SHSDeskInterface.ttc
-sudo chmod 644 /System/Library/Fonts/SHSDeskInterface.ttc</code></pre>
+<pre><code>curl -L https://github.com/ShikiSuen/SourceHanSansUI/raw/master/SourceHanSansUI-SuperOTC.zip\?raw\=true | bsdtar -xvf-
+sudo cp SourceHanSansUI.ttc /System/Library/Fonts
+sudo chown root:wheel /System/Library/Fonts/SourceHanSansUI.ttc
+sudo chmod 644 /System/Library/Fonts/SourceHanSansUI.ttc</code></pre>
 
 You should make sure following things have done before applying this set of font fallback plists:<br>
 

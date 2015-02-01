@@ -55,19 +55,19 @@
 		<array>
 			<array>
 				<string>zh-Hans</string>
-				<string>.AppleSimplifiedChineseFont-Regular</string>
+				<string>.AdobeSHSDeskSC-Regular</string>
 			</array>
 			<array>
 				<string>zh-Hant</string>
-				<string>.AppleTraditionalChineseFont-Regular</string>
+				<string>.AdobeSHSDeskTC-Regular</string>
 			</array>
 			<array>
 				<string>ja</string>
-				<string>.AppleJapaneseFont-Regular</string>
+				<string>.AdobeSHSDesk-Regular</string>
 			</array>
 			<array>
 				<string>ko</string>
-				<string>.AppleKoreanFont-Regular</string>
+				<string>.AdobeSHSDeskK-Regular</string>
 			</array>
 		</array>
 		<string>BanglaSangamMN</string>
@@ -140,19 +140,19 @@
 		<array>
 			<array>
 				<string>zh-Hans</string>
-				<string>.AppleSimplifiedChineseFont-Regular</string>
+				<string>.AdobeSHSDeskSC-Regular</string>
 			</array>
 			<array>
 				<string>zh-Hant</string>
-				<string>.AppleTraditionalChineseFont-Regular</string>
+				<string>.AdobeSHSDeskTC-Regular</string>
 			</array>
 			<array>
 				<string>ja</string>
-				<string>.AppleJapaneseFont-Regular</string>
+				<string>.AdobeSHSDesk-Regular</string>
 			</array>
 			<array>
 				<string>ko</string>
-				<string>.AppleKoreanFont-Regular</string>
+				<string>.AdobeSHSDeskK-Regular</string>
 			</array>
 		</array>
 		<string>BanglaSangamMN</string>
@@ -182,19 +182,19 @@
 		<array>
 			<array>
 				<string>zh-Hans</string>
-				<string>.AppleSimplifiedChineseFont-Regular</string>
+				<string>.AdobeSHSDeskSC-Regular</string>
 			</array>
 			<array>
 				<string>zh-Hant</string>
-				<string>.AppleTraditionalChineseFont-Regular</string>
+				<string>.AdobeSHSDeskTC-Regular</string>
 			</array>
 			<array>
 				<string>ja</string>
-				<string>.AppleJapaneseFont-Regular</string>
+				<string>.AdobeSHSDesk-Regular</string>
 			</array>
 			<array>
 				<string>ko</string>
-				<string>.AppleKoreanFont-Regular</string>
+				<string>.AdobeSHSDeskK-Regular</string>
 			</array>
 		</array>
 		<string>BanglaSangamMN</string>
