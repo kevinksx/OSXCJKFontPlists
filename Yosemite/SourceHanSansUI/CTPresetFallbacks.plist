@@ -10,10 +10,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -40,10 +40,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -70,10 +70,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -100,10 +100,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -130,10 +130,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -160,10 +160,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -190,10 +190,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -220,10 +220,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -250,10 +250,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -280,10 +280,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -310,10 +310,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -340,10 +340,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -370,10 +370,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -400,10 +400,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -430,10 +430,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -460,10 +460,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -490,10 +490,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -520,10 +520,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -550,10 +550,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -580,10 +580,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -610,10 +610,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -640,10 +640,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -670,10 +670,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -700,10 +700,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -730,10 +730,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -760,10 +760,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -790,10 +790,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -820,10 +820,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -850,10 +850,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -880,10 +880,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -910,10 +910,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -940,10 +940,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -970,10 +970,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1000,10 +1000,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1030,10 +1030,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1060,10 +1060,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1090,10 +1090,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1120,10 +1120,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1150,10 +1150,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1180,10 +1180,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1210,10 +1210,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1240,10 +1240,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1270,10 +1270,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1300,10 +1300,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1330,10 +1330,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1360,10 +1360,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1390,10 +1390,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1420,10 +1420,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Heavy</string>
-		<string>.AdobeSHSDeskSC-Heavy</string>
-		<string>.AdobeSHSDeskK-Heavy</string>
-		<string>.AdobeSHSDesk-Heavy</string>
+		<string>Adobe-SHSDeskTC-Heavy</string>
+		<string>Adobe-SHSDeskSC-Heavy</string>
+		<string>Adobe-SHSDeskK-Heavy</string>
+		<string>Adobe-SHSDesk-Heavy</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -1450,10 +1450,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1480,10 +1480,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1510,10 +1510,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1540,10 +1540,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1570,10 +1570,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1600,10 +1600,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1630,10 +1630,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1660,10 +1660,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1690,10 +1690,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1720,10 +1720,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1750,10 +1750,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1780,10 +1780,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1810,10 +1810,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1840,10 +1840,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1870,10 +1870,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1900,10 +1900,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1930,10 +1930,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1960,10 +1960,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -1990,10 +1990,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -2020,10 +2020,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -2050,10 +2050,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -2080,10 +2080,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -2110,10 +2110,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -2140,10 +2140,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Normal</string>
-		<string>.AdobeSHSDeskSC-Normal</string>
-		<string>.AdobeSHSDeskK-Normal</string>
-		<string>.AdobeSHSDesk-Normal</string>
+		<string>Adobe-SHSDeskTC-Normal</string>
+		<string>Adobe-SHSDeskSC-Normal</string>
+		<string>Adobe-SHSDeskK-Normal</string>
+		<string>Adobe-SHSDesk-Normal</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -2170,10 +2170,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2200,10 +2200,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2230,10 +2230,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2260,10 +2260,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2290,10 +2290,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2320,10 +2320,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2350,10 +2350,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2380,10 +2380,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2410,10 +2410,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2440,10 +2440,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2470,10 +2470,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2500,10 +2500,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2530,10 +2530,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2560,10 +2560,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2590,10 +2590,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2620,10 +2620,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2650,10 +2650,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2680,10 +2680,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2710,10 +2710,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2740,10 +2740,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2770,10 +2770,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2800,10 +2800,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2830,10 +2830,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2860,10 +2860,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -2890,10 +2890,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -2920,10 +2920,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -2950,10 +2950,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -2980,10 +2980,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3010,10 +3010,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3040,10 +3040,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3070,10 +3070,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3100,10 +3100,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3130,10 +3130,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3160,10 +3160,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3190,10 +3190,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3220,10 +3220,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3250,10 +3250,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3280,10 +3280,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3310,10 +3310,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3340,10 +3340,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3370,10 +3370,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3400,10 +3400,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3430,10 +3430,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3460,10 +3460,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3490,10 +3490,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3520,10 +3520,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3550,10 +3550,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3580,10 +3580,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -3610,10 +3610,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3640,10 +3640,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3670,10 +3670,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3700,10 +3700,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3730,10 +3730,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3760,10 +3760,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3790,10 +3790,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3820,10 +3820,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3850,10 +3850,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3880,10 +3880,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3910,10 +3910,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3940,10 +3940,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -3970,10 +3970,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4000,10 +4000,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4030,10 +4030,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4060,10 +4060,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4090,10 +4090,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4120,10 +4120,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4150,10 +4150,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4180,10 +4180,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4210,10 +4210,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4240,10 +4240,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4270,10 +4270,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4300,10 +4300,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4330,10 +4330,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4360,10 +4360,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4390,10 +4390,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4420,10 +4420,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4450,10 +4450,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4480,10 +4480,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4510,10 +4510,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4540,10 +4540,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4570,10 +4570,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4600,10 +4600,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4630,10 +4630,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4660,10 +4660,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4690,10 +4690,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4720,10 +4720,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4750,10 +4750,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4780,10 +4780,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4810,10 +4810,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4840,10 +4840,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4870,10 +4870,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4900,10 +4900,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4930,10 +4930,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4960,10 +4960,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -4990,10 +4990,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -5020,10 +5020,10 @@
 		<string>.GeezaProInterface-Light</string>
 		<string>Thonburi-Light</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-ExtraLight</string>
-		<string>.AdobeSHSDeskSC-ExtraLight</string>
-		<string>.AdobeSHSDeskK-ExtraLight</string>
-		<string>.AdobeSHSDesk-ExtraLight</string>
+		<string>Adobe-SHSDeskTC-ExtraLight</string>
+		<string>Adobe-SHSDeskSC-ExtraLight</string>
+		<string>Adobe-SHSDeskK-ExtraLight</string>
+		<string>Adobe-SHSDesk-ExtraLight</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Light</string>
 		<string>GujaratiSangamMN</string>
@@ -5050,10 +5050,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5080,10 +5080,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5110,10 +5110,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5140,10 +5140,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5170,10 +5170,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5200,10 +5200,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5230,10 +5230,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5260,10 +5260,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5290,10 +5290,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5320,10 +5320,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5350,10 +5350,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5380,10 +5380,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5410,10 +5410,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5440,10 +5440,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5470,10 +5470,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5500,10 +5500,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5530,10 +5530,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5560,10 +5560,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5590,10 +5590,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5620,10 +5620,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5650,10 +5650,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5680,10 +5680,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5710,10 +5710,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5740,10 +5740,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -5770,10 +5770,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -5800,10 +5800,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -5830,10 +5830,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -5860,10 +5860,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -5890,10 +5890,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -5920,10 +5920,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -5950,10 +5950,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -5980,10 +5980,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6010,10 +6010,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6040,10 +6040,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6070,10 +6070,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6100,10 +6100,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6130,10 +6130,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6160,10 +6160,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6190,10 +6190,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6220,10 +6220,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6250,10 +6250,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6280,10 +6280,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6310,10 +6310,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6340,10 +6340,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6370,10 +6370,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6400,10 +6400,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6430,10 +6430,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -6460,10 +6460,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -7782,10 +7782,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -7812,10 +7812,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -7842,10 +7842,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -7872,10 +7872,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -7902,10 +7902,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -7932,10 +7932,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -7962,10 +7962,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -7992,10 +7992,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8022,10 +8022,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8052,10 +8052,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8082,10 +8082,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8112,10 +8112,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8142,10 +8142,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8172,10 +8172,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8202,10 +8202,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8232,10 +8232,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8262,10 +8262,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8292,10 +8292,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8322,10 +8322,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8352,10 +8352,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8382,10 +8382,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8412,10 +8412,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8442,10 +8442,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8472,10 +8472,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -8502,10 +8502,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8532,10 +8532,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8562,10 +8562,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8592,10 +8592,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8622,10 +8622,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8652,10 +8652,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8682,10 +8682,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8712,10 +8712,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8742,10 +8742,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8772,10 +8772,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8802,10 +8802,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8832,10 +8832,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8862,10 +8862,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8892,10 +8892,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8922,10 +8922,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8952,10 +8952,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -8982,10 +8982,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -9012,10 +9012,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -9042,10 +9042,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -9072,10 +9072,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -9102,10 +9102,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -9132,10 +9132,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -9162,10 +9162,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -9192,10 +9192,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -9222,10 +9222,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9252,10 +9252,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9282,10 +9282,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9312,10 +9312,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9342,10 +9342,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9372,10 +9372,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9402,10 +9402,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9432,10 +9432,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9462,10 +9462,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9492,10 +9492,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9522,10 +9522,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9552,10 +9552,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9582,10 +9582,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9612,10 +9612,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9642,10 +9642,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9672,10 +9672,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9702,10 +9702,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9732,10 +9732,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9762,10 +9762,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9792,10 +9792,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9822,10 +9822,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9852,10 +9852,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9882,10 +9882,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9912,10 +9912,10 @@
 		<string>.GeezaProInterface</string>
 		<string>Thonburi</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Regular</string>
-		<string>.AdobeSHSDeskSC-Regular</string>
-		<string>.AdobeSHSDeskK-Regular</string>
-		<string>.AdobeSHSDesk-Regular</string>
+		<string>Adobe-SHSDeskTC-Regular</string>
+		<string>Adobe-SHSDeskSC-Regular</string>
+		<string>Adobe-SHSDeskK-Regular</string>
+		<string>Adobe-SHSDesk-Regular</string>
 		<string>BanglaSangamMN</string>
 		<string>KohinoorDevanagari-Book</string>
 		<string>GujaratiSangamMN</string>
@@ -9942,10 +9942,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -9972,10 +9972,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10002,10 +10002,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10032,10 +10032,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10062,10 +10062,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10092,10 +10092,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10122,10 +10122,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10152,10 +10152,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10182,10 +10182,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10212,10 +10212,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10242,10 +10242,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10272,10 +10272,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10302,10 +10302,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10332,10 +10332,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10362,10 +10362,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10392,10 +10392,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10422,10 +10422,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10452,10 +10452,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10482,10 +10482,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10512,10 +10512,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10542,10 +10542,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10572,10 +10572,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10602,10 +10602,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10632,10 +10632,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Bold</string>
-		<string>.AdobeSHSDeskSC-Bold</string>
-		<string>.AdobeSHSDeskK-Bold</string>
-		<string>.AdobeSHSDesk-Bold</string>
+		<string>Adobe-SHSDeskTC-Bold</string>
+		<string>Adobe-SHSDeskSC-Bold</string>
+		<string>Adobe-SHSDeskK-Bold</string>
+		<string>Adobe-SHSDesk-Bold</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Bold</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10662,10 +10662,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10692,10 +10692,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10722,10 +10722,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10752,10 +10752,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10782,10 +10782,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10812,10 +10812,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10842,10 +10842,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10872,10 +10872,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10902,10 +10902,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10932,10 +10932,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10962,10 +10962,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -10992,10 +10992,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11022,10 +11022,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11052,10 +11052,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11082,10 +11082,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11112,10 +11112,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11142,10 +11142,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11172,10 +11172,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11202,10 +11202,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11232,10 +11232,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11262,10 +11262,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11292,10 +11292,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11322,10 +11322,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>
@@ -11352,10 +11352,10 @@
 		<string>.GeezaProInterface-Bold</string>
 		<string>Thonburi-Bold</string>
 		<string>Kokonor</string>
-		<string>.AdobeSHSDeskTC-Medium</string>
-		<string>.AdobeSHSDeskSC-Medium</string>
-		<string>.AdobeSHSDeskK-Medium</string>
-		<string>.AdobeSHSDesk-Medium</string>
+		<string>Adobe-SHSDeskTC-Medium</string>
+		<string>Adobe-SHSDeskSC-Medium</string>
+		<string>Adobe-SHSDeskK-Medium</string>
+		<string>Adobe-SHSDesk-Medium</string>
 		<string>BanglaSangamMN-Bold</string>
 		<string>KohinoorDevanagari-Medium</string>
 		<string>GujaratiSangamMN-Bold</string>

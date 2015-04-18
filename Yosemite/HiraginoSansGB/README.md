@@ -5,8 +5,8 @@
 > /System/Library/Frameworks/CoreText.framework/Versions/A/Resources<br>
 
 可以藉由如下自动化指令将字体回退档案自动下载到正确的位置、并自动配置正确的系统级档案权限：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14D131/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14D131/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite/HiraginoSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite/HiraginoSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
@@ -14,8 +14,7 @@ sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resource
 
 该组字体回退档案包含如下设定:<br>
 
-- OS X 简体中文介面语系使用 Hiragino Sans GB 作为介面字体。<br>
-- OS X 繁体中文介面语系使用 Hiragino Kaku Gothic Pro 作为介面字体。<br>
+- OS X 简繁体中文介面语系均使用 Hiragino Sans GB 作为介面字体。<br>
 
 在套用该组档案之前，您需先确认：<br>
 
@@ -26,12 +25,8 @@ sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resource
 这两点可以藉由如下Terminal指令自动完成：<br>
 <pre><code>sudo chown root:wheel /Library/Fonts/"Hiragino Sans GB W3.otf"
 sudo chown root:wheel /Library/Fonts/"Hiragino Sans GB W6.otf"
-sudo chown root:wheel /Library/Fonts/"ヒラギノ角ゴ Pro W3.otf"
-sudo chown root:wheel /Library/Fonts/"ヒラギノ角ゴ Pro W6.otf"
-sudo chmod 644 /ibrary/Fonts/"Hiragino Sans GB W3.otf"
-sudo chmod 644 /Library/Fonts/"Hiragino Sans GB W6.otf"
-sudo chmod 644 /Library/Fonts/"ヒラギノ角ゴ Pro W3.otf"
-sudo chmod 644 /Library/Fonts/"ヒラギノ角ゴ Pro W6.otf"</code></pre>
+sudo chmod 644 /Library/Fonts/"Hiragino Sans GB W3.otf"
+sudo chmod 644 /Library/Fonts/"Hiragino Sans GB W6.otf"</code></pre>
 
 请且仅请在您了解这些档案的适用目的之后再考虑下载这些档案。<br>
 
@@ -44,8 +39,8 @@ sudo chmod 644 /Library/Fonts/"ヒラギノ角ゴ Pro W6.otf"</code></pre>
 > /System/Library/Frameworks/CoreText.framework/Versions/A/Resources<br>
 
 可以藉由如下自動化指令將字體回退檔案自動下載到正確的位置、並自動配置正確的系統級檔案權限：<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14D131/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14D131/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite/HiraginoSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite/HiraginoSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
@@ -53,8 +48,7 @@ sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resource
 
 該組字體回退檔案包含如下設定:<br>
 
-- OS X 簡體中文介面語系使用 Hiragino Sans GB 作為介面字體。<br>
-- OS X 繁體中文介面語系使用 Hiragino Kaku Gothic Pro 作為介面字體。<br>
+- OS X 簡繁體中文介面語系均使用 Hiragino Sans GB 作為介面字體。<br>
 
 在套用該組檔案之前，您需先確認：<br>
 
@@ -65,12 +59,8 @@ sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resource
 這兩點可以藉由如下Terminal指令自動完成：<br>
 <pre><code>sudo chown root:wheel /Library/Fonts/"Hiragino Sans GB W3.otf"
 sudo chown root:wheel /Library/Fonts/"Hiragino Sans GB W6.otf"
-sudo chown root:wheel /Library/Fonts/"ヒラギノ角ゴ Pro W3.otf"
-sudo chown root:wheel /Library/Fonts/"ヒラギノ角ゴ Pro W6.otf"
-sudo chmod 644 /ibrary/Fonts/"Hiragino Sans GB W3.otf"
-sudo chmod 644 /Library/Fonts/"Hiragino Sans GB W6.otf"
-sudo chmod 644 /Library/Fonts/"ヒラギノ角ゴ Pro W3.otf"
-sudo chmod 644 /Library/Fonts/"ヒラギノ角ゴ Pro W6.otf"</code></pre>
+sudo chmod 644 /Library/Fonts/"Hiragino Sans GB W3.otf"
+sudo chmod 644 /Library/Fonts/"Hiragino Sans GB W6.otf"</code></pre>
 
 請且僅請在您了解這些檔案的適用目的之後再考慮下載這些檔案。<br>
 
@@ -82,8 +72,8 @@ Font Fallback plists files should be placed in the following folder and inherit 
 > /System/Library/Frameworks/CoreText.framework/Versions/A/Resources<br>
 
 You could use following Terminal commands to download and place them well with correct System Permission settings unless you have no access to GitHub:<br>
-<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14D131/HiraKaku-to-HiraSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
-sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite-10.10-14D131/HiraKaku-to-HiraSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
+<pre><code>sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite/HiraginoSansGB/CTPresetFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
+sudo curl -L https://github.com/ShikiSuen/OSXCJKFontPlists/blob/master/Yosemite/HiraginoSansGB/DefaultFontFallbacks.plist\?raw\=true -o /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/CTPresetFallbacks.plist
 sudo chown root:wheel /System/Library/Frameworks/CoreText.framework/Versions/A/Resources/DefaultFontFallbacks.plist
@@ -91,8 +81,7 @@ sudo chmod 644 /System/Library/Frameworks/CoreText.framework/Versions/A/Resource
 
 They are customized for the following setting:<br>
 
-- Simplified Chinese GUI of OS X uses Hiragino Sans GB as its GUI font.<br>
-- Traditional Chinese GUI of OS X uses Hiragino Kaku Gothic Pro as its GUI font.<br>
+- Both Simplified Chinese and Traditional Chinese GUI of OS X use Hiragino Sans GB as their GUI font.<br>
 
 You should make sure following things have done before applying this set of font fallback plists:<br>
 
@@ -104,11 +93,7 @@ You should make sure following things have done before applying this set of font
 You could get these two things done by using following Terminal commands:<br>
 <pre><code>sudo chown root:wheel /Library/Fonts/"Hiragino Sans GB W3.otf"
 sudo chown root:wheel /Library/Fonts/"Hiragino Sans GB W6.otf"
-sudo chown root:wheel /Library/Fonts/"ヒラギノ角ゴ Pro W3.otf"
-sudo chown root:wheel /Library/Fonts/"ヒラギノ角ゴ Pro W6.otf"
-sudo chmod 644 /ibrary/Fonts/"Hiragino Sans GB W3.otf"
-sudo chmod 644 /Library/Fonts/"Hiragino Sans GB W6.otf"
-sudo chmod 644 /Library/Fonts/"ヒラギノ角ゴ Pro W3.otf"
-sudo chmod 644 /Library/Fonts/"ヒラギノ角ゴ Pro W6.otf"</code></pre>
+sudo chmod 644 /Library/Fonts/"Hiragino Sans GB W3.otf"
+sudo chmod 644 /Library/Fonts/"Hiragino Sans GB W6.otf"</code></pre>
 
 You should download files only if you know what they are and what they should be used for.<br>

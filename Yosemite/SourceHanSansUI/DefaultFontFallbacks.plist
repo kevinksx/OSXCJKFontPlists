@@ -55,19 +55,19 @@
 		<array>
 			<array>
 				<string>zh-Hans</string>
-				<string>.AdobeSHSDeskSC-Regular</string>
+				<string>Adobe-SHSDeskSC-Regular</string>
 			</array>
 			<array>
 				<string>zh-Hant</string>
-				<string>.AdobeSHSDeskTC-Regular</string>
+				<string>Adobe-SHSDeskTC-Regular</string>
 			</array>
 			<array>
 				<string>ja</string>
-				<string>.AdobeSHSDesk-Regular</string>
+				<string>Adobe-SHSDesk-Regular</string>
 			</array>
 			<array>
 				<string>ko</string>
-				<string>.AdobeSHSDeskK-Regular</string>
+				<string>Adobe-SHSDeskK-Regular</string>
 			</array>
 		</array>
 		<string>BanglaSangamMN</string>
@@ -140,19 +140,19 @@
 		<array>
 			<array>
 				<string>zh-Hans</string>
-				<string>.AdobeSHSDeskSC-Regular</string>
+				<string>Adobe-SHSDeskSC-Regular</string>
 			</array>
 			<array>
 				<string>zh-Hant</string>
-				<string>.AdobeSHSDeskTC-Regular</string>
+				<string>Adobe-SHSDeskTC-Regular</string>
 			</array>
 			<array>
 				<string>ja</string>
-				<string>.AdobeSHSDesk-Regular</string>
+				<string>Adobe-SHSDesk-Regular</string>
 			</array>
 			<array>
 				<string>ko</string>
-				<string>.AdobeSHSDeskK-Regular</string>
+				<string>Adobe-SHSDeskK-Regular</string>
 			</array>
 		</array>
 		<string>BanglaSangamMN</string>
@@ -182,19 +182,19 @@
 		<array>
 			<array>
 				<string>zh-Hans</string>
-				<string>.AdobeSHSDeskSC-Regular</string>
+				<string>Adobe-SHSDeskSC-Regular</string>
 			</array>
 			<array>
 				<string>zh-Hant</string>
-				<string>.AdobeSHSDeskTC-Regular</string>
+				<string>Adobe-SHSDeskTC-Regular</string>
 			</array>
 			<array>
 				<string>ja</string>
-				<string>.AdobeSHSDesk-Regular</string>
+				<string>Adobe-SHSDesk-Regular</string>
 			</array>
 			<array>
 				<string>ko</string>
-				<string>.AdobeSHSDeskK-Regular</string>
+				<string>Adobe-SHSDeskK-Regular</string>
 			</array>
 		</array>
 		<string>BanglaSangamMN</string>
